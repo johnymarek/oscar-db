@@ -98,7 +98,7 @@
   	<text align="center" offsetXPC="0" offsetYPC="0" widthPC="100" heightPC="20" fontSize="30" backgroundColor="10:105:150" foregroundColor="100:200:255">
 		  <script>getPageInfo("pageTitle");</script>
 		</text>
-		<image offsetXPC=5 offsetYPC=2 widthPC=21 heightPC=16>
+		<image offsetXPC=5 offsetYPC=2 widthPC=21 heightPC=19 >
 		  <script>channelImage;</script>
       <widthPC>
         <script>
@@ -452,7 +452,7 @@
   </unknownDispatcher>
   
 <script>
-    channelImage = "/home/scripts/readon/images/ch2.png";
+    channelImage = "/home/scripts/readon/images/ch3.jpg";
 </script>
 <?
 $dbname = "./db/readon.db";
