@@ -2,7 +2,6 @@
 <rss version="2.0">
 <!--
 ##   http://code.google.com/media-translate/
-## ЯЯ
 #   Copyright (C) 2010  Serge A. Timchenko
 ##   This program is free software: you can redistribute it and/or modify
 #   it under the terms of the GNU General Public License as published by
@@ -240,7 +239,17 @@
       else if(userInput == "right" || userInput == "R") 
       {
         ret = "true";
-      }
+	  } 
+	  
+	  else if (userInput == "zero" || userInput == "0") 
+	  {
+		ret = "true";
+		showIdle();
+		focus = getFocusItemIndex();
+		favphp = "http://127.0.0.1:82/oscar-db/dofav.php?n=" + getItemInfo(focus, "idfav");
+		dontredraw = doModalRss(favphp, "mediaDisplay", "text", 0); 
+	  }
+	  	 
       else if (userInput == "pagedown" || userInput == "pageup" || userInput == "PD" || userInput == "PG")
       {
         itemSize = getPageInfo("itemCount");
@@ -452,10 +461,11 @@
   </unknownDispatcher>
   
 <script>
-    channelImage = "/home/scripts/readon/images/ch3.jpg";
+    channelImage = "/home/scripts/oscar-db/images/ch3.jpg";
 </script>
+
 <?
-$dbname = "./db/readon.db";
+$dbname = "./db/oscar-db.db";
 $tablename = "video_table";
 
 $srch = $_GET['s'];
@@ -472,13 +482,14 @@ while ($row = $r->fetch(SQLITE_ASSOC)) {
     echo "<title>".$row['chn']."</title>\n";
 	echo "<location>http://www.readonwebtv.com/pages/".$row['asxl'].".asx</location>\n";
 	echo "<annotation>Ch.#: ".$row['asxl']." : ".$row['cntr']." : ".$row['gnre']."</annotation>\n";
+	echo "<idfav>".$row['asxl']."</idfav>\n";
     echo "</item>\n\n";
   }
  } else {
 echo "<channel>\n";
 echo "<title>List</title>\n";
 	echo "<item>\n";
-    echo "<title>Emply</title>\n";
+    echo "<title>Empty</title>\n";
     echo "</item>\n\n";
 }
 ?>

@@ -15,7 +15,7 @@
    suffixYPC=12.2
    suffixBgColor=-1:-1:-1
    suffixTextColor=101:101:101
-   suffixClearImage="/home/scripts/readon/images/ch5.jpg"
+   suffixClearImage="/home/scripts/oscar-db/images/ch5.jpg"
    suffixClearImageXPC=0
    suffixClearImageYPC=2.8
    suffixClearImageWPC=100
@@ -54,63 +54,84 @@
 </mediaDisplay>
 
 <?
-//СС
-$dbname = "./db/readon.db";
+//
+$dbname = "./db/oscar-db.db";
 $tablename = "audio_table";
 $mode = $_GET['m'];
-$db = new PDO("sqlite:$dbname");
+
 echo "<channel>\n";
 
-if($mode == "g") {
-echo "<title>Genres</title>\n";
-$r = $db->query("select distinct gnre from $tablename order by gnre");
-while ($row = $r->fetch(SQLITE_ASSOC)) {
-	echo "<item>\n";
-    echo "<title>".$row['gnre']."</title>\n";
-	$tmpg = urlencode($row['gnre']);
-	echo "<link>http://127.0.0.1:82/readon/list_a.php?g=".$tmpg."</link>\n";
-    echo "</item>\n\n";
-  }
-  
- } else if($mode == "c") {
-echo "<title>Countries</title>\n";
-$r = $db->query("select distinct cntr from $tablename order by cntr");
-while ($row = $r->fetch(SQLITE_ASSOC)) {
-	echo "<item>\n";
-    echo "<title>".$row['cntr']."</title>\n";
-	$tmpc = urlencode($row['cntr']);
-	echo "<link>http://127.0.0.1:82/readon/list_a.php?c=".$tmpc."</link>\n";
-    echo "</item>\n\n";
-  }
+if ($db = new PDO("sqlite:$dbname")) {
+	$query = @$db->query("SELECT * FROM $tablename");
+	if ($query === false) {
+		echo "<title>ReadonWebRadio (No Items)</title>\n";
+		echo "<item>\n";
+		echo "<title>Database Update From Web</title>\n";
+		echo "<link>http://127.0.0.1:82/oscar-db/updateradio.php</link>\n";
+		echo "</item>\n\n";
+	} else {
+	
+		if($mode == "g") {
+		echo "<title>Genres</title>\n";
+		$r = $db->query("select distinct gnre from $tablename order by gnre");
+		while ($row = $r->fetch(SQLITE_ASSOC)) {
+			echo "<item>\n";
+			echo "<title>".$row['gnre']."</title>\n";
+			$tmpg = urlencode($row['gnre']);
+			echo "<link>http://127.0.0.1:82/oscar-db/list_a.php?g=".$tmpg."</link>\n";
+			echo "</item>\n\n";
+		  }
+		
+		 } else if($mode == "c") {
+		echo "<title>Countries</title>\n";
+		$r = $db->query("select distinct cntr from $tablename order by cntr");
+		while ($row = $r->fetch(SQLITE_ASSOC)) {
+			echo "<item>\n";
+			echo "<title>".$row['cntr']."</title>\n";
+			$tmpc = urlencode($row['cntr']);
+			echo "<link>http://127.0.0.1:82/oscar-db/list_a.php?c=".$tmpc."</link>\n";
+			echo "</item>\n\n";
+		  }
 
- } else { // no parameters
-echo "<title>ReadonWebRadio Menu</title>\n";
- 
-echo "<item>\n";
-echo "<title>Search</title>\n";
-echo "<link>rss_command://search</link>\n";
-echo "<search url='http://127.0.0.1:82/readon/list_a.php?s=%s' />\n";
-echo "</item>\n\n";
+		 } else { // no parameters
+		echo "<title>ReadonWebRadio Menu</title>\n";
 
-echo "<item>\n";
-echo "<title>Genres</title>\n";
-echo "<link>http://127.0.0.1:82/readon/index_a.php?m=g</link>\n";
-echo "</item>\n\n";
+		echo "<item>\n";
+		echo "<title>Search</title>\n";
+		echo "<link>rss_command://search</link>\n";
+		echo "<search url='http://127.0.0.1:82/oscar-db/list_a.php?s=%s' />\n";
+		echo "</item>\n\n";
+		 
+		echo "<item>\n";
+		echo "<title>Genres</title>\n";
+		echo "<link>http://127.0.0.1:82/oscar-db/index_a.php?m=g</link>\n";
+		echo "</item>\n\n";
 
-echo "<item>\n";
-echo "<title>Countries</title>\n";
-echo "<link>http://127.0.0.1:82/readon/index_a.php?m=c</link>\n";
-echo "</item>\n\n";
+		echo "<item>\n";
+		echo "<title>Countries</title>\n";
+		echo "<link>http://127.0.0.1:82/oscar-db/index_a.php?m=c</link>\n";
+		echo "</item>\n\n";
+		
+		echo "<item>\n";
+		echo "<title>Favorites</title>\n";
+		echo "<link>http://127.0.0.1:82/oscar-db/list_a.php?f=f</link>\n";
+		echo "</item>\n\n";
+		 
+		echo "<item>\n";
+		echo "<title>________________________</title>\n";
+		echo "</item>\n\n";
 
-echo "<item>\n";
-echo "<title>________________________</title>\n";
-echo "</item>\n\n";
+		echo "<item>\n";
+		echo "<title>Database Update From Web</title>\n";
+		echo "<link>http://127.0.0.1:82/oscar-db/updateradio.php</link>\n";
+		echo "</item>\n\n";
+		 }
+	}
+} else {
+	echo "<title>Problem</title>\n";
+	die($err);
+}
 
-echo "<item>\n";
-echo "<title>Database Update From Web</title>\n";
-echo "<link>http://127.0.0.1:82/readon/updateradio.php</link>\n";
-echo "</item>\n\n";
-  }
 ?>
 </channel>
 </rss>
