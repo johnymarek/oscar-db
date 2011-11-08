@@ -1,0 +1,51 @@
+{oscar-db}
+PHP-RSS-SQLITE experiments on mipsel-based media players 
+http://code.google.com/p/oscar-db/
+
+Visit http://www.readonwebtv.com/ for more details about 
+their great online service used for this example.
+
+This project is a "package" for [PlayOn!X] project by Mikka
+See http://playon.unixstorm.org for more details
+
+It uses SQLite Database, PHP engine and 
+needs media-translate (RSS Ex) to work (for now)
+See http://code.google.com/p/media-translate/ 
+
+Live update of the Channlel list (to local Database) from website is provided by menu entry.
+The menu also offers search and sorting by Country or Genre.
+Favorite functionality will be implemented by "0" button.
+
+Installation:
+
+Copy the files to HDD/scripts/oscar-db;
+Create two menu entries:
+
+<item>
+<title>ReadOnWebTV</title>
+<link>http://127.0.0.1:82/oscar-db/index.php</link>
+<!-- <media>http://www.readonwebtv.com/itvlogo.png</media> -->
+<media>/home/scripts/oscar-db/images/ch3.jpg</media>
+</item>
+
+<item>
+<title>ReadOnWebRadio</title>
+<link>http://127.0.0.1:82/oscar-db/index_a.php</link>
+<media>/home/scripts/oscar-db/images/ch6.jpg</media>
+</item>
+
+You can also manage the SQLite Database with your PC, by addressing the mediaplayer on local network:
+http://<PlayerIP>:82/oscar-db/browser.php  (login admin)
+This is based on http://code.google.com/p/phpliteadmin/  project
+
+Please, do not update DB from the web too often as it takes long time and 
+loads readonweb servers with extra queries. 
+The final stream links are passed through asx files and they could be actualized even without often updating the entire list.  
+
+Keep a copy of DB file in case of some problems when playing with it.
+Currently, more than 2500 TV and 4000 Radio Channels are present.
+Stream availability strongly depends from your Country/ISP speed and restrictions.
+Many of them do not work.
+
+oscar-db
+Nov, 2011

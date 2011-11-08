@@ -15,7 +15,7 @@
    suffixYPC=12.2
    suffixBgColor=-1:-1:-1
    suffixTextColor=101:101:101
-   suffixClearImage="/home/scripts/readon/images/ch4.jpg"
+   suffixClearImage="/home/scripts/oscar-db/images/ch4.jpg"
    suffixClearImageXPC=0
    suffixClearImageYPC=2.8
    suffixClearImageWPC=100
@@ -52,7 +52,7 @@
 <?
 //ЖЖ
 set_time_limit(240);
-$dbname = "./db/readon.db";
+$dbname = "./db/oscar-db.db";
 
 $tablename = "audio_table";
 $targetfile = "http://www.readonwebtv.com/audio2.htm" ;

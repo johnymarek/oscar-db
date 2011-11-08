@@ -3,7 +3,6 @@
 <!--
 ##   http://code.google.com/media-translate/
 #   Copyright (C) 2010  Serge A. Timchenko
-# ЯЯЯ
 ##   This program is free software: you can redistribute it and/or modify
 #   it under the terms of the GNU General Public License as published by
 #   the Free Software Foundation, either version 3 of the License, or
@@ -98,7 +97,7 @@
   	<text align="center" offsetXPC="0" offsetYPC="0" widthPC="100" heightPC="20" fontSize="30" backgroundColor="10:105:150" foregroundColor="100:200:255">
 		  <script>getPageInfo("pageTitle");</script>
 		</text>
-		<image offsetXPC=5 offsetYPC=2 widthPC=21 heightPC=19>
+		<image offsetXPC=5 offsetYPC=2 widthPC=21 heightPC=19 >
 		  <script>channelImage;</script>
       <widthPC>
         <script>
@@ -240,7 +239,17 @@
       else if(userInput == "right" || userInput == "R") 
       {
         ret = "true";
-      }
+	  } 
+	  
+	  else if (userInput == "zero" || userInput == "0") 
+	  {
+		ret = "true";
+		showIdle();
+		focus = getFocusItemIndex();
+		favphp = "http://127.0.0.1:82/oscar-db/dofav_a.php?n=" + getItemInfo(focus, "idfav");
+		dontredraw = doModalRss(favphp, "mediaDisplay", "text", 0); 
+	  }
+	  	 
       else if (userInput == "pagedown" || userInput == "pageup" || userInput == "PD" || userInput == "PG")
       {
         itemSize = getPageInfo("itemCount");
@@ -452,10 +461,11 @@
   </unknownDispatcher>
   
 <script>
-    channelImage = "/home/scripts/readon/images/ch6.jpg";
+    channelImage = "/home/scripts/oscar-db/images/ch6.jpg";
 </script>
+
 <?
-$dbname = "./db/readon.db";
+$dbname = "./db/oscar-db.db";
 $tablename = "audio_table";
 
 $srch = $_GET['s'];
@@ -472,13 +482,14 @@ while ($row = $r->fetch(SQLITE_ASSOC)) {
     echo "<title>".$row['chn']."</title>\n";
 	echo "<location>http://www.readonwebtv.com/pages/".$row['asxl'].".asx</location>\n";
 	echo "<annotation>Ch.#: ".$row['asxl']." : ".$row['cntr']." : ".$row['gnre']."</annotation>\n";
+	echo "<idfav>".$row['asxl']."</idfav>\n";
     echo "</item>\n\n";
   }
  } else {
 echo "<channel>\n";
 echo "<title>List</title>\n";
 	echo "<item>\n";
-    echo "<title>Emply</title>\n";
+    echo "<title>Empty</title>\n";
     echo "</item>\n\n";
 }
 ?>
