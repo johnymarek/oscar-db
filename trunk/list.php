@@ -125,7 +125,7 @@
 		</text>
 
 		<text align="center" redraw="yes" offsetXPC=55 offsetYPC=90 widthPC=40 heightPC=5 fontSize=13 backgroundColor=0:0:0 foregroundColor=200:80:80>
-			<script>if(getItemInfo(focus, "idfav") > 0) "Press 0 to add to Favorites"; else " Press 0 to remove from Favorites";</script>
+			<script>if(getItemInfo(focus, "idfav") == "no") "Press 0 to see Favorites"; else if(getItemInfo(focus, "idfav") > 0) "Press 0 to add to Favorites"; else " Press 0 to remove from Favorites";</script>
 		</text>
 
   	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_01.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
@@ -479,12 +479,16 @@ echo "<title>".$srch." ".$country." ". $genre."</title>\n";
 $r = $db->query("select * from $tablename WHERE cntr LIKE '%$country%' AND gnre LIKE '%$genre%' AND chn LIKE '%$srch%' order by id");
 while ($row = $r->fetch(SQLITE_ASSOC)) {
 	echo "<item>\n";
-    echo "<title>".$row['chn']."</title>\n";
+	echo "<title>".$row['chn']."</title>\n";
 	echo "<location>http://www.readonwebtv.com/pages/".$row['asxl'].".asx</location>\n";
 	echo "<annotation>Ch.#: ".$row['asxl']." : ".$row['cntr']." : ".$row['gnre']."</annotation>\n";
 	echo "<idfav>".$row['id']."</idfav>\n";
-    echo "</item>\n\n";
-  }
+	echo "</item>\n\n";
+}
+	echo "<item>\n";
+	echo "<title>- - - end - - -</title>\n";
+	echo "<idfav>no</idfav>\n";
+	echo "</item>\n\n";
 } else if (isset ($fav)) {
 		if($fav==0) {  // list favorites
 		echo "<title>TV Favorites List</title>\n"; 
@@ -508,7 +512,7 @@ while ($row = $r->fetch(SQLITE_ASSOC)) {
 			echo "</item>\n\n";
 		  } 
 } else {
-echo "<title>List</title>\n";
+	echo "<title>List</title>\n";
 	echo "<item>\n";
     echo "<title>Empty</title>\n";
     echo "</item>\n\n";

@@ -95,7 +95,12 @@ if ($db = new PDO("sqlite:$dbname")) {
 
 		 } else { // no parameters
 		echo "<title>ReadonWebTV Menu</title>\n";
-
+		
+		echo "<item>\n";
+		echo "<title>Favorites</title>\n";
+		echo "<link>http://127.0.0.1:82/oscar-db/list.php?f=0</link>\n";
+		echo "</item>\n\n";
+		 
 		echo "<item>\n";
 		echo "<title>Search</title>\n";
 		echo "<link>rss_command://search</link>\n";
@@ -112,11 +117,6 @@ if ($db = new PDO("sqlite:$dbname")) {
 		echo "<link>http://127.0.0.1:82/oscar-db/index.php?m=c</link>\n";
 		echo "</item>\n\n";
 		
-		echo "<item>\n";
-		echo "<title>Favorites</title>\n";
-		echo "<link>http://127.0.0.1:82/oscar-db/list.php?f=0</link>\n";
-		echo "</item>\n\n";
-		 
 		echo "<item>\n";
 		echo "<title>________________________</title>\n";
 		echo "</item>\n\n";
