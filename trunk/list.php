@@ -484,11 +484,7 @@ while ($row = $r->fetch(SQLITE_ASSOC)) {
 	echo "<annotation>Ch.#: ".$row['asxl']." : ".$row['cntr']." : ".$row['gnre']."</annotation>\n";
 	echo "<idfav>".$row['id']."</idfav>\n";
 	echo "</item>\n\n";
-}
-	echo "<item>\n";
-	echo "<title>- - - end - - -</title>\n";
-	echo "<idfav>no</idfav>\n";
-	echo "</item>\n\n";
+	}
 } else if (isset ($fav)) {
 		if($fav==0) {  // list favorites
 		echo "<title>TV Favorites List</title>\n"; 
@@ -518,5 +514,9 @@ while ($row = $r->fetch(SQLITE_ASSOC)) {
     echo "</item>\n\n";
 }
 ?>
+<item>
+<title>- - - end - - -</title>
+<idfav>no</idfav>
+</item>
 </channel>
 </rss>
