@@ -477,9 +477,6 @@ $db = new PDO("sqlite:$dbname");
 if($srch or $genre or $country) {
 echo "<title>".$srch." ".$country." ". $genre."</title>\n";
 $r = $db->query("select * from $tablename WHERE cntr LIKE '%$country%' AND gnre LIKE '%$genre%' AND chn LIKE '%$srch%' order by id");
-	echo "<item>\n";
-	echo "<title>------------------------</title>\n";
-	echo "</item>\n\n";
 while ($row = $r->fetch(SQLITE_ASSOC)) {
 	echo "<item>\n";
     echo "<title>".$row['chn']."</title>\n";
@@ -488,6 +485,9 @@ while ($row = $r->fetch(SQLITE_ASSOC)) {
 	echo "<idfav>".$row['id']."</idfav>\n";
     echo "</item>\n\n";
   }
+  	echo "<item>\n";
+	echo "<title>- - - end - - -</title>\n";
+	echo "</item>\n\n";
 } else if (isset ($fav)) {
 		if($fav==0) {  // list favorites
 		echo "<title>Radio Favorites List</title>\n"; 
