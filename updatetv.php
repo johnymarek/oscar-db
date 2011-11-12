@@ -50,11 +50,11 @@
 <idleImage> image/POPUP_LOADING_08.png </idleImage>
   		<text redraw="yes" offsetXPC="10" offsetYPC="30" widthPC="60" heightPC="40" fontSize="18" backgroundColor="-1:-1:-1" foregroundColor="51:153:255">
 <?
-// ЯЯЯ
 set_time_limit(240);
 $dbname = "./db/oscar-db.db";
 
 $tablename = "video_table";
+$tablefav = "video_fav";
 $targetfile = "http://www.readonwebtv.com/video2.htm" ;
 $targetenc = "html-entities";
 
@@ -84,11 +84,10 @@ if ($db = new PDO("sqlite:$dbname")) {
 	$query = @$db->query("SELECT * FROM $tablename");
 	if ($query === false) {
 		$db->query("CREATE TABLE $tablename (
-				   id INT,
+				   id INTEGER,
 				   asxl TEXT ,
 				   cntr  TEXT ,
 				   gnre TEXT ,
-				   fav INT2,
 				   chn TEXT ,
 		           PRIMARY KEY ( id));");
 //		echo "Created $tablename \n";
@@ -105,6 +104,7 @@ if ($db = new PDO("sqlite:$dbname")) {
 			    $buffer = ucs2html($buffer);
 				$buffer = mb_convert_encoding($buffer, 'UTF-8',$targetenc);
 				$cln = 0;
+
 				if ($country = str_between($buffer, "<li><a href=\"#\">","</a><ul>")){  //Country
 				  $country_mem = $country;
 				  $asxnum = 0;
@@ -130,7 +130,7 @@ if ($db = new PDO("sqlite:$dbname")) {
 				}
 				if (($cln == 0)  and ( $chname != "0")  and ( $asxl != "0") )   {
 					$n++;
-					$sql="INSERT INTO $tablename ( id, asxl, cntr, gnre, fav, chn)	VALUES ('$n', '$asxnum' , '$country_mem', '$genre_mem', 0, '$chname');";
+					$sql="INSERT INTO $tablename ( id, asxl, cntr, gnre, chn)	VALUES ('$n', '$asxnum' , '$country_mem', '$genre_mem', '$chname');";
 					$db->query($sql);
 					if (($n % 100) == 0) {
 					//echo "Channels = ".$n;
@@ -139,6 +139,17 @@ if ($db = new PDO("sqlite:$dbname")) {
 				}
 		}     
 		fclose($handle); 
+	}
+	$query = @$db->query("SELECT * FROM $tablefav");
+	if ($query === false) {
+		$db->query("CREATE TABLE $tablefav (
+				   id INTEGER,
+				   asxl TEXT ,
+				   cntr  TEXT ,
+				   gnre TEXT ,
+				   chn TEXT ,
+		           PRIMARY KEY ( id));");
+//	echo "Created $tablefav \n";
 	}
 	$db->commit();	
 	echo "Done, Total Channels : ".$n;

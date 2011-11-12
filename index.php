@@ -114,7 +114,7 @@ if ($db = new PDO("sqlite:$dbname")) {
 		
 		echo "<item>\n";
 		echo "<title>Favorites</title>\n";
-		echo "<link>http://127.0.0.1:82/oscar-db/list.php?f=f</link>\n";
+		echo "<link>http://127.0.0.1:82/oscar-db/list.php?f=0</link>\n";
 		echo "</item>\n\n";
 		 
 		echo "<item>\n";

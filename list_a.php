@@ -123,11 +123,11 @@
 		<text align="center" redraw="yes" offsetXPC=55 offsetYPC=85 widthPC=40 heightPC=5 fontSize=13 backgroundColor=10:80:120 foregroundColor=0:0:0>
 			<script>print(location); location;</script>
 		</text>
-<!--
+		
 		<text align="center" redraw="yes" offsetXPC=55 offsetYPC=90 widthPC=40 heightPC=5 fontSize=13 backgroundColor=0:0:0 foregroundColor=200:80:80>
-			<script>if(streamurl==""||streamurl==null) "WARNING! No stream url."; else "";</script>
+			<script>if(getItemInfo(focus, "idfav") > 0) "Press 0 to add to Favorites"; else " Press 0 to remove from Favorites";</script>
 		</text>
--->
+
   	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_01.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
   	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_02.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
   	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_03.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
@@ -246,7 +246,7 @@
 		ret = "true";
 		showIdle();
 		focus = getFocusItemIndex();
-		favphp = "http://127.0.0.1:82/oscar-db/dofav_a.php?n=" + getItemInfo(focus, "idfav");
+		favphp = "http://127.0.0.1:82/oscar-db/list_a.php?f=" + getItemInfo(focus, "idfav");
 		dontredraw = doModalRss(favphp, "mediaDisplay", "text", 0); 
 	  }
 	  	 
@@ -459,34 +459,58 @@
     }
     print("error_info=",error_info);
   </unknownDispatcher>
-  
 <script>
     channelImage = "/home/scripts/oscar-db/images/ch6.jpg";
 </script>
-
+<channel>
 <?
 $dbname = "./db/oscar-db.db";
 $tablename = "audio_table";
+$tablefav = "audio_fav";
 
 $srch = $_GET['s'];
 $genre = $_GET['g'];
 $country = $_GET['c'];
+$fav = $_GET['f'];
 $db = new PDO("sqlite:$dbname");
 // check if this script was called with argument
 if($srch or $genre or $country) {
-echo "<channel>\n";
 echo "<title>".$srch." ".$country." ". $genre."</title>\n";
 $r = $db->query("select * from $tablename WHERE cntr LIKE '%$country%' AND gnre LIKE '%$genre%' AND chn LIKE '%$srch%' order by id");
+	echo "<item>\n";
+	echo "<title>------------------------</title>\n";
+	echo "</item>\n\n";
 while ($row = $r->fetch(SQLITE_ASSOC)) {
 	echo "<item>\n";
     echo "<title>".$row['chn']."</title>\n";
 	echo "<location>http://www.readonwebtv.com/pages/".$row['asxl'].".asx</location>\n";
 	echo "<annotation>Ch.#: ".$row['asxl']." : ".$row['cntr']." : ".$row['gnre']."</annotation>\n";
-	echo "<idfav>".$row['asxl']."</idfav>\n";
+	echo "<idfav>".$row['id']."</idfav>\n";
     echo "</item>\n\n";
   }
- } else {
-echo "<channel>\n";
+} else if (isset ($fav)) {
+		if($fav==0) {  // list favorites
+		echo "<title>Radio Favorites List</title>\n"; 
+		 } else if($fav<0) {  // remove 
+			$fav = -$fav;
+			echo "<title>Radio Favorite ".$fav." Deleted</title>\n"; 
+			$r = $db->query("delete from $tablefav WHERE id=$fav");
+			$row = $r->fetch(SQLITE_ASSOC);
+		} else if($fav>0) {  // Add
+			echo "<title>Radio Favorite ".$fav." Added</title>\n"; 
+			$r = $db->query("INSERT INTO $tablefav SELECT NULL,asxl, cntr, gnre,chn FROM $tablename WHERE id=$fav");
+			$row = $r->fetch(SQLITE_ASSOC);
+		} 
+		$r = $db->query("select * from $tablefav order by id");
+		 while ($row = $r->fetch(SQLITE_ASSOC)) {
+			echo "<item>\n";
+			echo "<title>".$row['chn']."</title>\n";
+			echo "<location>http://www.readonwebtv.com/pages/".$row['asxl'].".asx</location>\n";
+			echo "<annotation>Ch.#: ".$row['asxl']." : ".$row['cntr']." : ".$row['gnre']."</annotation>\n";
+			echo "<idfav>".-$row['id']."</idfav>\n";  // negative for future removing
+			echo "</item>\n\n";
+		  } 
+} else {
 echo "<title>List</title>\n";
 	echo "<item>\n";
     echo "<title>Empty</title>\n";
