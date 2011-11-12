@@ -125,7 +125,7 @@
 		</text>
 		
 		<text align="center" redraw="yes" offsetXPC=55 offsetYPC=90 widthPC=40 heightPC=5 fontSize=13 backgroundColor=0:0:0 foregroundColor=200:80:80>
-			<script>if(getItemInfo(focus, "idfav") > 0) "Press 0 to add to Favorites"; else " Press 0 to remove from Favorites";</script>
+			<script>if(getItemInfo(focus, "idfav") == "no") "Press 0 to see Favorites"; else if(getItemInfo(focus, "idfav") > 0) "Press 0 to add to Favorites"; else " Press 0 to remove from Favorites";</script>
 		</text>
 
   	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_01.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
@@ -484,10 +484,7 @@ while ($row = $r->fetch(SQLITE_ASSOC)) {
 	echo "<annotation>Ch.#: ".$row['asxl']." : ".$row['cntr']." : ".$row['gnre']."</annotation>\n";
 	echo "<idfav>".$row['id']."</idfav>\n";
     echo "</item>\n\n";
-  }
-  	echo "<item>\n";
-	echo "<title>- - - end - - -</title>\n";
-	echo "</item>\n\n";
+    }
 } else if (isset ($fav)) {
 		if($fav==0) {  // list favorites
 		echo "<title>Radio Favorites List</title>\n"; 
@@ -517,5 +514,9 @@ echo "<title>List</title>\n";
     echo "</item>\n\n";
 }
 ?>
+<item>
+<title>- - - end - - -</title>
+<idfav>no</idfav>
+</item>
 </channel>
 </rss>
