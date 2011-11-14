@@ -1,0 +1,25 @@
+Simple way to create and verify an .icapp package with no links on Win32 machine
+
+Use the provided executables or download and extract them from original distributions:
+http://gnuwin32.sourceforge.net/packages/bzip2.htm
+bzip2-1.0.5-bin.zip
+From /bin/, take 
+bzip2.dll
+bzip2.exe
+
+http://gnuwin32.sourceforge.net/packages/gtar.htm
+tar-1.13-1-bin.zip
+From /bin/ take
+tar.exe
+and dependencies: tar-1.13-1-dep.zip
+libiconv-2.dll, and libintl-2.dll
+
+Put all files above together with "_make_.bat"  and  "_check_.bat" in same folder.
+Create a sub-folder <name> and put inside all files for future icapp package.
+Create 2 empty sub-folders named "/out" and "/checked".
+To make <name>.icapp
+run _make_.bat <name>
+The <name>.icapp will be created in "/out" folder.
+
+To check an .icapp package, put in at main folder and run "_check_.bat"
+It will be unpacked in "/checked"
