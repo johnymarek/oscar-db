@@ -27,5 +27,6 @@ It will be unpacked in "/checked"
 * The Unix link files are specific to the OS/filesystem and they could not be 
 emulated fully on Win32. However, if the links are betwen files within your 
 icapp structure, you can try making cross links with included "ln.exe" tool before icapping.
+Works only on NTFS.
 More details and original download for "ln.exe" at:
 http://unxutils.sourceforge.net/
