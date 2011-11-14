@@ -1,0 +1,36 @@
+##################################################################################
+# © oscar-db 2011                                                                   #
+##################################################################################
+
+name="oscar-db"
+description="ТВ и Радио - Бесплатно"
+www="http://www.readonwebtv.com/"
+version="0.1"
+webui=""
+webui_link=""
+
+handler()
+{
+	case "$1" in
+		init)
+			;;
+		uninit)
+			#rm -f /tmp/app/www/modules/oscar-db
+			;;
+		menu)
+			echo '<item>
+				<title>ReadOnWebTV</title>
+				<link>http://127.0.0.1:8002/modules/oscar-db/index.php</link>
+				<icon>/tmp/app/www/modules/oscar-db/images/ch3.jpg</icon>
+				</item>
+				<item>
+				<title>ReadOnWebRadio</title>
+				<link>http://127.0.0.1:8002/modules/oscar-db/index_a.php</link>
+				<icon>/tmp/app/www/modules/oscar-db/images/ch6.jpg</icon>
+				</item>'
+			;;
+		*)
+			;;
+	esac
+}
+
