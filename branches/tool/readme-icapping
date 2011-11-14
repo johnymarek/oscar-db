@@ -1,4 +1,4 @@
-Simple way to create and verify an .icapp package with no links on Win32 machine
+Simple way to create and verify an .icapp package (with no link files)* on Win32 machine
 
 Use the provided executables or download and extract them from original distributions:
 http://gnuwin32.sourceforge.net/packages/bzip2.htm
@@ -23,3 +23,9 @@ The <name>.icapp will be created in "/out" folder.
 
 To check an .icapp package, put in at main folder and run "_check_.bat"
 It will be unpacked in "/checked"
+
+* The Unix link files are specific to the OS/filesystem and they could not be 
+emulated fully on Win32. However, if the links are betwen files within your 
+icapp structure, you can try making cross links with included "ln.exe" tool before icapping.
+More details and original download for "ln.exe" at:
+http://unxutils.sourceforge.net/
