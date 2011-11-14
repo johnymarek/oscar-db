@@ -6,16 +6,16 @@
    sideLeftWidthPC=10
    sideRightWidthPC=100
    showHeader="yes"
-   imageParentFocus="image/mele/focus.bmp"
-   imageFocus="image/mele/focus.bmp"
-   imageUnFocus="image/mele/unfocus.bmp"
+   imageParentFocus="/tmp/app/www/modules/oscar-db/images/focus.bmp"
+   imageFocus="/tmp/app/www/modules/oscar-db/images/focus.bmp"
+   imageUnFocus="/tmp/app/www/modules/oscar-db/images/unfocus.bmp"
    unFocusFontColor="110:110:110"
    focusFontColor=255:130:30
    suffixXPC=89
    suffixYPC=12.2
    suffixBgColor=-1:-1:-1
    suffixTextColor=101:101:101
-   suffixClearImage="/home/scripts/oscar-db/images/ch4.jpg"
+   suffixClearImage="/tmp/app/www/modules/oscar-db/images/ch4.jpg"
    suffixClearImageXPC=0
    suffixClearImageYPC=2.8
    suffixClearImageWPC=100
@@ -160,7 +160,7 @@ if ($db = new PDO("sqlite:$dbname")) {
 ?>
 		</text>
 <backgroundDisplay>
-    <image  offsetXPC=0 offsetYPC=0 widthPC=100 heightPC=100>image/mele/backgd.jpg</image>
+    <image  offsetXPC=0 offsetYPC=0 widthPC=100 heightPC=100>/tmp/app/www/modules/oscar-db/images/backgd.jpg</image>
 </backgroundDisplay>
 </mediaDisplay>
 <channel>

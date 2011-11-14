@@ -123,7 +123,7 @@
 		<text align="center" redraw="yes" offsetXPC=55 offsetYPC=85 widthPC=40 heightPC=5 fontSize=13 backgroundColor=10:80:120 foregroundColor=0:0:0>
 			<script>print(location); location;</script>
 		</text>
-
+		
 		<text align="center" redraw="yes" offsetXPC=55 offsetYPC=90 widthPC=40 heightPC=5 fontSize=13 backgroundColor=0:0:0 foregroundColor=200:80:80>
 			<script>if(getItemInfo(focus, "idfav") == "no") "Press 0 to see Favorites"; else if(getItemInfo(focus, "idfav") > 0) "Press 0 to add to Favorites"; else " Press 0 to remove from Favorites";</script>
 		</text>
@@ -246,7 +246,7 @@
 		ret = "true";
 		showIdle();
 		focus = getFocusItemIndex();
-		favphp = "http://127.0.0.1:82/oscar-db/list.php?f=" + getItemInfo(focus, "idfav");
+		favphp = "http://127.0.0.1:8002/modules/oscar-db/list_a.php?f=" + getItemInfo(focus, "idfav");
 		dontredraw = doModalRss(favphp, "mediaDisplay", "text", 0); 
 	  }
 	  	 
@@ -460,13 +460,13 @@
     print("error_info=",error_info);
   </unknownDispatcher>
 <script>
-    channelImage = "/home/scripts/oscar-db/images/ch3.jpg";
+    channelImage = "/tmp/app/www/modules/oscar-db/images/ch6.jpg";
 </script>
 <channel>
 <?
 $dbname = "./db/oscar-db.db";
-$tablename = "video_table";
-$tablefav = "video_fav";
+$tablename = "audio_table";
+$tablefav = "audio_fav";
 
 $srch = $_GET['s'];
 $genre = $_GET['g'];
@@ -479,22 +479,22 @@ echo "<title>".$srch." ".$country." ". $genre."</title>\n";
 $r = $db->query("select * from $tablename WHERE cntr LIKE '%$country%' AND gnre LIKE '%$genre%' AND chn LIKE '%$srch%' order by id");
 while ($row = $r->fetch(SQLITE_ASSOC)) {
 	echo "<item>\n";
-	echo "<title>".$row['chn']."</title>\n";
+    echo "<title>".$row['chn']."</title>\n";
 	echo "<location>http://www.readonwebtv.com/pages/".$row['asxl'].".asx</location>\n";
 	echo "<annotation>Ch.#: ".$row['asxl']." : ".$row['cntr']." : ".$row['gnre']."</annotation>\n";
 	echo "<idfav>".$row['id']."</idfav>\n";
-	echo "</item>\n\n";
-	}
+    echo "</item>\n\n";
+    }
 } else if (isset ($fav)) {
 		if($fav==0) {  // list favorites
-		echo "<title>TV Favorites List</title>\n"; 
+		echo "<title>Radio Favorites List</title>\n"; 
 		 } else if($fav<0) {  // remove 
 			$fav = -$fav;
-			echo "<title>TV Favorite ".$fav." Deleted</title>\n"; 
+			echo "<title>Radio Favorite ".$fav." Deleted</title>\n"; 
 			$r = $db->query("delete from $tablefav WHERE id=$fav");
 			$row = $r->fetch(SQLITE_ASSOC);
 		} else if($fav>0) {  // Add
-			echo "<title>TV Favorite ".$fav." Added</title>\n"; 
+			echo "<title>Radio Favorite ".$fav." Added</title>\n"; 
 			$r = $db->query("INSERT INTO $tablefav SELECT NULL,asxl, cntr, gnre,chn FROM $tablename WHERE id=$fav");
 			$row = $r->fetch(SQLITE_ASSOC);
 		} 
@@ -508,7 +508,7 @@ while ($row = $r->fetch(SQLITE_ASSOC)) {
 			echo "</item>\n\n";
 		  } 
 } else {
-	echo "<title>List</title>\n";
+echo "<title>List</title>\n";
 	echo "<item>\n";
     echo "<title>Empty</title>\n";
     echo "</item>\n\n";
