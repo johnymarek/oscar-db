@@ -1,45 +1,7 @@
 <? echo "<?xml version='1.0' encoding='UTF8' ?>\n"; ?>
 <rss version="2.0">
-<mediaDisplay name=meleThreePartView
-   itemBackgroundColor=0:0:0
-   backgroundColor=0:0:0
-   sideLeftWidthPC=10
-   sideRightWidthPC=100
-   showHeader="yes"
-   imageParentFocus="image/mele/focus.bmp"
-   imageFocus="image/mele/focus.bmp"
-   imageUnFocus="image/mele/unfocus.bmp"
-   unFocusFontColor="110:110:110"
-   focusFontColor=51:153:255
-   suffixXPC=89
-   suffixYPC=12.2
-   suffixBgColor=-1:-1:-1
-   suffixTextColor=101:101:101
-   suffixClearImage="/home/scripts/oscar-db/images/ch1.jpg"
-   suffixClearImageXPC=0
-   suffixClearImageYPC=2.8
-   suffixClearImageWPC=100
-   suffixClearImageHPC=15.6
-   headerColor=-1:-1:-1
-   headerXPC=26
-   headerYPC=8
-   headerFontSize=20
-   fontSize=17
-   itemXPC=10.9
-   itemYPC=20
-   itemWidthPC=78.13
-   itemHeightPC=10
-   itemGap=0
-   itemImageWidthPC=0
-   itemImageHeightPC=0
-   itemAlignt="left"
-	menuXPC = 4
-	popupXPC = 5
-	popupYPC = 24.5
-	popupFontSize = 17
-	popupWidthPC = 15
-	popupBorderColor = 255:255:255
-   >
+<mediaDisplay name="photoView" showHeader="no" rowCount="2" columnCount="3" drawItemText="no" showDefaultInfo="no" itemOffsetXPC="20" itemOffsetYPC="34" sliding="yes" itemBorderColor="51:153:255" itemHeightPC="13" itemWidthPC="17.2" itemBackgroundColor="0:0:0" backgroundColor="0:0:0" bottomYPC="100" sideTopHeightPC="0" mainPartColor="-1:-1:-1" sideColorBottom="-1:-1:-1" sideColorTop="-1:-1:-1" fontSize="14">
+
 <idleImage> image/POPUP_LOADING_01.png </idleImage>
 <idleImage> image/POPUP_LOADING_02.png </idleImage>
 <idleImage> image/POPUP_LOADING_03.png </idleImage>
@@ -48,8 +10,12 @@
 <idleImage> image/POPUP_LOADING_06.png </idleImage>
 <idleImage> image/POPUP_LOADING_07.png </idleImage>
 <idleImage> image/POPUP_LOADING_08.png </idleImage>
+
 <backgroundDisplay>
-    <image  offsetXPC=0 offsetYPC=0 widthPC=100 heightPC=100>image/mele/backgd.jpg</image>
+    <image offsetXPC=0 offsetYPC=0 widthPC=100 heightPC=100>image/mele/backgd.jpg</image>
+	<image offsetXPC=0 offsetYPC=2.8 widthPC=100 heightPC=15.6>/home/scripts/oscar-db/images/ch1.jpg</image>
+	<text offsetXPC=28 offsetYPC=8 widthPC=35 heightPC=10 fontSize=20 backgroundColor=-1:-1:-1 foregroundColor=51:153:255>
+	ReadonWebTV Menu</text>
 </backgroundDisplay>
 </mediaDisplay>
 
@@ -99,37 +65,43 @@ if ($db = new PDO("sqlite:$dbname")) {
 		echo "<item>\n";
 		echo "<title>Favorites</title>\n";
 		echo "<link>http://127.0.0.1:82/oscar-db/list.php?f=0</link>\n";
-		echo "</item>\n\n";
+		echo '<media:thumbnail url="/home/scripts/oscar-db/images/favorites.png" />';
+		echo "\n</item>\n\n";
 		 
 		echo "<item>\n";
 		echo "<title>Search</title>\n";
 		echo "<link>rss_command://search</link>\n";
 		echo "<search url='http://127.0.0.1:82/oscar-db/list.php?s=%s' />\n";
-		echo "</item>\n\n";
+		echo '<media:thumbnail url="/home/scripts/oscar-db/images/search.png" />';
+		echo "\n</item>\n\n";
 		 
 		echo "<item>\n";
 		echo "<title>Genres</title>\n";
 		echo "<link>http://127.0.0.1:82/oscar-db/index.php?m=g</link>\n";
-		echo "</item>\n\n";
-
-		echo "<item>\n";
-		echo "<title>Countries</title>\n";
-		echo "<link>http://127.0.0.1:82/oscar-db/index.php?m=c</link>\n";
-		echo "</item>\n\n";
-		
-		echo "<item>\n";
-		echo "<title>________________________</title>\n";
-		echo "</item>\n\n";
+		echo '<media:thumbnail url="/home/scripts/oscar-db/images/genres.png" />';
+		echo '<mediaDisplay name="photoView" showHeader="no" rowCount="7" columnCount="3" columnPerPage="3" drawItemText="yes" showDefaultInfo="no" itemOffsetXPC="5" itemOffsetYPC="22" sliding="yes" itemBorderColor="51:153:255" itemHeightPC="8" itemWidthPC="28" itemBackgroundColor="0:0:0" idleImageXPC="90" idleImageYPC="10" idleImageWidthPC="6" idleImageHeightPC="6" backgroundColor="0:0:0" bottomYPC="100" sideTopHeightPC="0" mainPartColor="-1:-1:-1" sideColorBottom="-1:-1:-1" sideColorTop="-1:-1:-1" fontSize="14" itemImageWidthPC="1" itemImageHeightPC="1" />';
+		echo "\n</item>\n\n";
 
 		echo "<item>\n";
 		echo "<title>Database Update From Web</title>\n";
 		echo "<link>http://127.0.0.1:82/oscar-db/updatetv.php</link>\n";
-		echo "</item>\n\n";
+		echo '<media:thumbnail url="/home/scripts/oscar-db/images/update.png" />';
+		echo "\n</item>\n\n";		
+
+		echo "<item>\n";
+		echo "<title>Countries</title>\n";
+		echo "<link>http://127.0.0.1:82/oscar-db/index.php?m=c</link>\n";
+		echo '<media:thumbnail url="/home/scripts/oscar-db/images/countries.png" />';
+		echo '<mediaDisplay name="photoView" showHeader="no" rowCount="7" columnCount="3" columnPerPage="3" drawItemText="yes" showDefaultInfo="no" itemOffsetXPC="5" itemOffsetYPC="22" sliding="yes" itemBorderColor="51:153:255" itemHeightPC="8" itemWidthPC="28" itemBackgroundColor="0:0:0"  idleImageXPC="90" idleImageYPC="10" idleImageWidthPC="6" idleImageHeightPC="6" backgroundColor="0:0:0"  bottomYPC="100" sideTopHeightPC="0" mainPartColor="-1:-1:-1" sideColorBottom="-1:-1:-1" sideColorTop="-1:-1:-1" fontSize="14" itemImageWidthPC="1" itemImageHeightPC="1" />';
+		echo "\n</item>\n\n";
 		 }
 	}
 } else {
+	echo "<item>\n";
 	echo "<title>Problem</title>\n";
-	die($err);
+	echo "<link>/home/scripts/menu-oscar.rss</link>\n";
+	echo '<media:thumbnail url="/home/scripts/oscar-db/images/error.png" />';
+	echo "\n</item>\n\n";
 }
 
 ?>
