@@ -94,7 +94,7 @@
 	imageUnFocus=""
 	imageParentFocus=""
 >		
-  	<text align="center" offsetXPC="0" offsetYPC="0" widthPC="100" heightPC="20" fontSize="30" backgroundColor="10:105:150" foregroundColor="100:200:255">
+  	<text align="center" offsetXPC="0" offsetYPC="0" widthPC="100" heightPC="20" fontSize="25" backgroundColor="10:105:150" foregroundColor="100:200:255">
 		  <script>getPageInfo("pageTitle");</script>
 		</text>
 		<image offsetXPC=5 offsetYPC=2 widthPC=21 heightPC=19 >
@@ -490,11 +490,11 @@ while ($row = $r->fetch(SQLITE_ASSOC)) {
 		echo "<title>TV Favorites List</title>\n"; 
 		 } else if($fav<0) {  // remove 
 			$fav = -$fav;
-			echo "<title>TV Favorite ".$fav." Deleted</title>\n"; 
+			echo "<title>TV Favorite #".$fav." Deleted</title>\n"; 
 			$r = $db->query("delete from $tablefav WHERE id=$fav");
 			$row = $r->fetch(SQLITE_ASSOC);
 		} else if($fav>0) {  // Add
-			echo "<title>TV Favorite ".$fav." Added</title>\n"; 
+			echo "<title>Ch.# ".$fav." Added to TV Favorites</title>\n"; 
 			$r = $db->query("INSERT INTO $tablefav SELECT NULL,asxl, cntr, gnre,chn FROM $tablename WHERE id=$fav");
 			$row = $r->fetch(SQLITE_ASSOC);
 		} 

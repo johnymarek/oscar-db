@@ -94,7 +94,7 @@
 	imageUnFocus=""
 	imageParentFocus=""
 >		
-  	<text align="center" offsetXPC="0" offsetYPC="0" widthPC="100" heightPC="20" fontSize="30" backgroundColor="10:105:150" foregroundColor="100:200:255">
+  	<text align="center" offsetXPC="0" offsetYPC="0" widthPC="100" heightPC="20" fontSize="25" backgroundColor="48:150:48" foregroundColor="115:230:115">
 		  <script>getPageInfo("pageTitle");</script>
 		</text>
 		<image offsetXPC=5 offsetYPC=2 widthPC=21 heightPC=19 >
@@ -110,17 +110,17 @@
         </script>
       </offsetXPC>
 		</image>
-  	<text redraw="yes" offsetXPC="80" offsetYPC="12" widthPC="15" heightPC="6" fontSize="18" backgroundColor="10:105:150" foregroundColor="60:160:205">
+  	<text redraw="yes" offsetXPC="80" offsetYPC="12" widthPC="15" heightPC="6" fontSize="18" backgroundColor="48:150:48" foregroundColor="86:186:86">
 		  <script>sprintf("%s / ", focus-(-1))+itemCount;</script>
 		</text>
 		<text align="justify" redraw="yes" 
           lines="14" fontSize=14
 		      offsetXPC=55 offsetYPC=25 widthPC=40 heightPC=60 
-		      backgroundColor=10:80:120 foregroundColor=200:200:200>
+		      backgroundColor=32:122:32 foregroundColor=200:200:200>
 			<script>print(annotation); annotation;</script>
 		</text>
 		
-		<text align="center" redraw="yes" offsetXPC=55 offsetYPC=85 widthPC=40 heightPC=5 fontSize=13 backgroundColor=10:80:120 foregroundColor=0:0:0>
+		<text align="center" redraw="yes" offsetXPC=55 offsetYPC=85 widthPC=40 heightPC=5 fontSize=13 backgroundColor=32:122:32 foregroundColor=0:0:0>
 			<script>print(location); location;</script>
 		</text>
 		
@@ -162,7 +162,7 @@
   				<script>
   					idx = getQueryItemIndex();
   					focus = getFocusItemIndex();
-  			    if(focus==idx) "10:80:120"; else "-1:-1:-1";
+  			    if(focus==idx) "32:122:32"; else "-1:-1:-1";
   				</script>
 			  </backgroundColor>
 			  <foregroundColor>
@@ -490,11 +490,11 @@ while ($row = $r->fetch(SQLITE_ASSOC)) {
 		echo "<title>Radio Favorites List</title>\n"; 
 		 } else if($fav<0) {  // remove 
 			$fav = -$fav;
-			echo "<title>Radio Favorite ".$fav." Deleted</title>\n"; 
+			echo "<title>Radio Favorite #".$fav." Deleted</title>\n"; 
 			$r = $db->query("delete from $tablefav WHERE id=$fav");
 			$row = $r->fetch(SQLITE_ASSOC);
 		} else if($fav>0) {  // Add
-			echo "<title>Radio Favorite ".$fav." Added</title>\n"; 
+			echo "<title>Ch.# ".$fav." Added to Radio Favorites</title>\n"; 
 			$r = $db->query("INSERT INTO $tablefav SELECT NULL,asxl, cntr, gnre,chn FROM $tablename WHERE id=$fav");
 			$row = $r->fetch(SQLITE_ASSOC);
 		} 
@@ -508,7 +508,7 @@ while ($row = $r->fetch(SQLITE_ASSOC)) {
 			echo "</item>\n\n";
 		  } 
 } else {
-echo "<title>List</title>\n";
+    echo "<title>List</title>\n";
 	echo "<item>\n";
     echo "<title>Empty</title>\n";
     echo "</item>\n\n";
