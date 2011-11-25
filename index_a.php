@@ -14,7 +14,7 @@
 <backgroundDisplay>
     <image offsetXPC=0 offsetYPC=0 widthPC=100 heightPC=100>image/mele/backgd.jpg</image>
 	<image offsetXPC=0 offsetYPC=2.8 widthPC=100 heightPC=15.6>/home/scripts/oscar-db/images/ch5.jpg</image>
-	<text offsetXPC=28 offsetYPC=8 widthPC=35 heightPC=10 fontSize=20 backgroundColor=-1:-1:-1 foregroundColor=51:180:51>
+	<text offsetXPC=32 offsetYPC=8 widthPC=35 heightPC=10 fontSize=20 backgroundColor=-1:-1:-1 foregroundColor=51:180:51>
 	ReadonWebRadio Menu</text>
 </backgroundDisplay>
 </mediaDisplay>

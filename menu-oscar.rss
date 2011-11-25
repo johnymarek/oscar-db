@@ -1,0 +1,73 @@
+<?xml version='1.0' ?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://purl.org/dc/elements/1.1/">
+
+<mediaDisplay name="photoView" showHeader="no" rowCount="2" columnCount="3" columnPerPage="3" drawItemText="no" showDefaultInfo="no"  itemOffsetXPC="20" itemOffsetYPC="34" sliding="yes" itemBorderColor="64:64:255" itemHeightPC="21" itemWidthPC="17.2" itemBackgroundColor="0:0:0" idleImageXPC="90" idleImageYPC="5" idleImageWidthPC="5" idleImageHeightPC="8" backgroundColor="0:0:0" bottomYPC="100" sideTopHeightPC="0" mainPartColor="-1:-1:-1" sideColorBottom="-1:-1:-1" sideColorTop="-1:-1:-1">
+<idleImage>/home/scripts/RTL/image/hdd_on.png</idleImage>
+<idleImage>/home/scripts/RTL/image/hdd_off.png</idleImage>
+<backgroundDisplay>
+    <image offsetXPC=0 offsetYPC=0 widthPC=100 heightPC=100>image/mele/backgd.jpg</image>
+	<image offsetXPC=0 offsetYPC=2.8 widthPC=100 heightPC=15.6>/home/scripts/oscar-db/images/ch0.jpg</image>
+	<text offsetXPC=39 offsetYPC=8 widthPC=35 heightPC=10 fontSize=20 backgroundColor=-1:-1:-1 foregroundColor=51:153:255>
+	Menu Oscar</text>
+</backgroundDisplay>
+<itemDisplay>
+<!-- image offsetXPC="8" offsetYPC="10" widthPC="84" heightPC="43" -->
+<image offsetXPC="20" offsetYPC="10" widthPC="60" heightPC="50" align="center">
+<script>
+	getItemInfo(-1, "media");
+</script>
+</image>
+
+<text offsetXPC="5" offsetYPC="70" widthPC="90" heightPC="20" fontSize="12" align="center">
+
+<script>
+	getItemInfo(-1, "title");
+</script>
+</text>
+</itemDisplay>
+</mediaDisplay>
+
+<channel>
+
+<item>
+<title>UA Kino</title>
+<link>http://tolimas.co.cc/modules/uakino/</link>
+<!-- <media>http://tolimas.co.cc/modules/uakino/images/uakino.jpg</media> -->
+<media>/home/scripts/modules/uakino.jpg</media>
+<mediaDisplay name=threePartsView />
+</item>
+
+<item>
+<media>/home/scripts/modules/mediaportal/mediaportal.png</media>
+<title>MediaPortal</title>
+<link>http://127.0.0.1:8002/modules/mediaportal/index.php</link>
+<mediaDisplay name=photoView />
+</item>
+
+<item>
+<media>/home/scripts/modules/uaonline/image/menu.jpg</media>
+<title>UA Online</title>
+<link>http://127.0.0.1:8002/modules/uaonline/ukraine.php</link>
+<mediaDisplay name=photoView />
+</item>
+
+<item>
+<media>/home/scripts/modules/uaonline2/images/uaonline.png</media>
+<title>UA online2</title>
+<link>http://127.0.0.1:8002/modules/uaonline2/ua_main.php</link>
+<mediaDisplay name=photoView />
+</item>
+
+<item>
+<title>ReadOnWebTV</title>
+<link>http://127.0.0.1:82/oscar-db/index.php</link>
+<media>/home/scripts/oscar-db/images/ch3.jpg</media>
+</item>
+
+<item>
+<title>ReadOnWebRadio</title>
+<link>http://127.0.0.1:82/oscar-db/index_a.php</link>
+<media>/home/scripts/oscar-db/images/ch6.jpg</media>
+</item>
+
+</channel>
+</rss>

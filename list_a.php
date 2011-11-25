@@ -94,7 +94,7 @@
 	imageUnFocus=""
 	imageParentFocus=""
 >		
-  	<text align="center" offsetXPC="0" offsetYPC="0" widthPC="100" heightPC="20" fontSize="25" backgroundColor="48:150:48" foregroundColor="115:230:115">
+  	<text align="center" offsetXPC="0" offsetYPC="0" widthPC="100" heightPC="20" fontSize="25" backgroundColor="20:70:20" foregroundColor="115:230:115">
 		  <script>getPageInfo("pageTitle");</script>
 		</text>
 		<image offsetXPC=5 offsetYPC=2 widthPC=21 heightPC=19 >
@@ -110,22 +110,22 @@
         </script>
       </offsetXPC>
 		</image>
-  	<text redraw="yes" offsetXPC="80" offsetYPC="12" widthPC="15" heightPC="6" fontSize="18" backgroundColor="48:150:48" foregroundColor="86:186:86">
+  	<text redraw="yes" offsetXPC="80" offsetYPC="12" widthPC="15" heightPC="6" fontSize="18" backgroundColor="20:70:20" foregroundColor="86:186:86">
 		  <script>sprintf("%s / ", focus-(-1))+itemCount;</script>
 		</text>
 		<text align="justify" redraw="yes" 
           lines="14" fontSize=14
 		      offsetXPC=55 offsetYPC=25 widthPC=40 heightPC=60 
-		      backgroundColor=32:122:32 foregroundColor=200:200:200>
+		      backgroundColor=25:93:25 foregroundColor=200:200:200>
 			<script>print(annotation); annotation;</script>
 		</text>
 		
-		<text align="center" redraw="yes" offsetXPC=55 offsetYPC=85 widthPC=40 heightPC=5 fontSize=13 backgroundColor=32:122:32 foregroundColor=0:0:0>
+		<text align="center" redraw="yes" offsetXPC=55 offsetYPC=85 widthPC=40 heightPC=5 fontSize=13 backgroundColor=25:93:25 foregroundColor=0:0:0>
 			<script>print(location); location;</script>
 		</text>
 		
-		<text align="center" redraw="yes" offsetXPC=55 offsetYPC=90 widthPC=40 heightPC=5 fontSize=13 backgroundColor=0:0:0 foregroundColor=200:80:80>
-			<script>if(getItemInfo(focus, "idfav") == "no") "Press 0 to see Favorites"; else if(getItemInfo(focus, "idfav") > 0) "Press 0 to add to Favorites"; else " Press 0 to remove from Favorites";</script>
+		<text align="center" redraw="yes" offsetXPC=50 offsetYPC=90 widthPC=50 heightPC=5 fontSize=13 backgroundColor=0:0:0 foregroundColor=200:80:80>
+			<script>if(getItemInfo(focus, "idfav") == "no") "[0]=Favorites; [RETURN]=Back; [HOME]=Exit"; else if(getItemInfo(focus, "idfav") > 0) "[0]=Add Favorite; [RETURN]=Back; [HOME]=Exit"; else "[0]=Remove; [RETURN]=Back; [HOME]=Exit";</script>
 		</text>
 
   	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_01.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
@@ -162,7 +162,7 @@
   				<script>
   					idx = getQueryItemIndex();
   					focus = getFocusItemIndex();
-  			    if(focus==idx) "32:122:32"; else "-1:-1:-1";
+  			    if(focus==idx) "25:93:25"; else "-1:-1:-1";
   				</script>
 			  </backgroundColor>
 			  <foregroundColor>
@@ -247,9 +247,10 @@
 		showIdle();
 		focus = getFocusItemIndex();
 		favphp = "http://127.0.0.1:82/oscar-db/list_a.php?f=" + getItemInfo(focus, "idfav");
-		dontredraw = doModalRss(favphp, "mediaDisplay", "text", 0); 
+		ok1 = doModalRss(favphp, "mediaDisplay", "text", 0); 
+		redrawDisplay();
 	  }
-	  	 
+		 
       else if (userInput == "pagedown" || userInput == "pageup" || userInput == "PD" || userInput == "PG")
       {
         itemSize = getPageInfo("itemCount");
@@ -274,8 +275,7 @@
       ret;
     </script>
   </onUserInput>
-		
-	</mediaDisplay>
+  </mediaDisplay>
 		<item_template>
 		<mediaDisplay  name="threePartsView">
     	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_01.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
@@ -490,14 +490,15 @@ while ($row = $r->fetch(SQLITE_ASSOC)) {
 		echo "<title>Radio Favorites List</title>\n"; 
 		 } else if($fav<0) {  // remove 
 			$fav = -$fav;
-			echo "<title>Radio Favorite #".$fav." Deleted</title>\n"; 
+			echo "<title>Radio Favorite Deleted</title>\n"; 
 			$r = $db->query("delete from $tablefav WHERE id=$fav");
 			$row = $r->fetch(SQLITE_ASSOC);
 		} else if($fav>0) {  // Add
-			echo "<title>Ch.# ".$fav." Added to Radio Favorites</title>\n"; 
+			echo "<title>Added to Radio Favorites</title>\n"; 
 			$r = $db->query("INSERT INTO $tablefav SELECT NULL,asxl, cntr, gnre,chn FROM $tablename WHERE id=$fav");
 			$row = $r->fetch(SQLITE_ASSOC);
 		} 
+
 		$r = $db->query("select * from $tablefav order by id");
 		 while ($row = $r->fetch(SQLITE_ASSOC)) {
 			echo "<item>\n";
@@ -515,7 +516,10 @@ while ($row = $r->fetch(SQLITE_ASSOC)) {
 }
 ?>
 <item>
-<title>- - - end - - -</title>
+<title></title>
+<annotation>
+[RETURN]=Back;   [HOME]=Exit;
+</annotation>
 <idfav>no</idfav>
 </item>
 </channel>
