@@ -124,10 +124,10 @@
 			<script>print(location); location;</script>
 		</text>
 
-		<text align="center" redraw="yes" offsetXPC=55 offsetYPC=90 widthPC=40 heightPC=5 fontSize=13 backgroundColor=0:0:0 foregroundColor=200:80:80>
-			<script>if(getItemInfo(focus, "idfav") == "no") "Press 0 to see Favorites"; else if(getItemInfo(focus, "idfav") > 0) "Press 0 to add to Favorites"; else " Press 0 to remove from Favorites";</script>
+		<text align="center" redraw="yes" offsetXPC=50 offsetYPC=90 widthPC=50 heightPC=5 fontSize=13 backgroundColor=0:0:0 foregroundColor=200:80:80>
+			<script>if(getItemInfo(focus, "idfav") == "no") "[0]=Favorites; [RETURN]=Back; [HOME]=Exit"; else if(getItemInfo(focus, "idfav") > 0) "[0]=Add Favorite; [RETURN]=Back; [HOME]=Exit"; else "[0]=Remove; [RETURN]=Back; [HOME]=Exit";</script>
 		</text>
-
+		
   	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_01.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
   	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_02.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
   	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_03.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
@@ -241,15 +241,16 @@
         ret = "true";
 	  } 
 	  
-	  else if (userInput == "zero" || userInput == "0") 
+	else if (userInput == "zero" || userInput == "0") 
 	  {
 		ret = "true";
 		showIdle();
 		focus = getFocusItemIndex();
 		favphp = "http://127.0.0.1:82/oscar-db/list.php?f=" + getItemInfo(focus, "idfav");
-		dontredraw = doModalRss(favphp, "mediaDisplay", "text", 0); 
+		ok1 = doModalRss(favphp, "mediaDisplay", "text", 0); 
+		redrawDisplay();
 	  }
-	  	 
+		 
       else if (userInput == "pagedown" || userInput == "pageup" || userInput == "PD" || userInput == "PG")
       {
         itemSize = getPageInfo("itemCount");
@@ -274,7 +275,6 @@
       ret;
     </script>
   </onUserInput>
-		
 	</mediaDisplay>
 		<item_template>
 		<mediaDisplay  name="threePartsView">
@@ -490,11 +490,11 @@ while ($row = $r->fetch(SQLITE_ASSOC)) {
 		echo "<title>TV Favorites List</title>\n"; 
 		 } else if($fav<0) {  // remove 
 			$fav = -$fav;
-			echo "<title>TV Favorite #".$fav." Deleted</title>\n"; 
+			echo "<title>TV Favorite Deleted</title>\n"; 
 			$r = $db->query("delete from $tablefav WHERE id=$fav");
 			$row = $r->fetch(SQLITE_ASSOC);
 		} else if($fav>0) {  // Add
-			echo "<title>Ch.# ".$fav." Added to TV Favorites</title>\n"; 
+			echo "<title>Added to TV Favorites</title>\n"; 
 			$r = $db->query("INSERT INTO $tablefav SELECT NULL,asxl, cntr, gnre,chn FROM $tablename WHERE id=$fav");
 			$row = $r->fetch(SQLITE_ASSOC);
 		} 
@@ -515,7 +515,10 @@ while ($row = $r->fetch(SQLITE_ASSOC)) {
 }
 ?>
 <item>
-<title>- - - end - - -</title>
+<title></title>
+<annotation>
+[RETURN]=Back;   [HOME]=Exit;
+</annotation>
 <idfav>no</idfav>
 </item>
 </channel>
