@@ -50,13 +50,15 @@
 <idleImage> image/POPUP_LOADING_08.png </idleImage>
   		<text redraw="yes" offsetXPC="10" offsetYPC="30" widthPC="60" heightPC="40" fontSize="18" backgroundColor="-1:-1:-1" foregroundColor="51:153:255">
 <?
-set_time_limit(240);
-$dbname = "./db/oscar-db.db";
-
-$tablename = "video_table";
-$tablefav = "video_fav";
-$targetfile = "http://www.readonwebtv.com/video2.htm" ;
-$targetenc = "html-entities";
+set_time_limit(300);
+$dbname="./db/oscar-db.db";
+$inpfile="http://www.readonwebtv.com/video2.htm";
+$targetfile="/tmp/tacho_tmp";
+$USERAGENT="Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13";
+$WGET="/opt/bin/wget";
+$tablename="video_table";
+$tablefav="video_fav";
+$targetenc="html-entities";
 
 $genre = 0;
 $asxnum = 0;
@@ -79,6 +81,9 @@ function str_between($string, $start, $end){
                    sprintf("%02s",dechex(ord($str[$i])))).';';
     return($html);
  }
+ 
+exec($WGET.' -q -O '.$targetfile.'  --header "User-Agent: '.$USERAGENT.'" "'.$inpfile.'"');
+sleep(3);
 
 if ($db = new PDO("sqlite:$dbname")) {
 	$query = @$db->query("SELECT * FROM $tablename");
@@ -153,6 +158,7 @@ if ($db = new PDO("sqlite:$dbname")) {
 	}
 	$db->commit();	
 	echo "Done, Total Channels : ".$n;
+	unlink($targetfile);
 } else {
 	echo "Failed";
 	die($err);

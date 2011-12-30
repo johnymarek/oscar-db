@@ -52,10 +52,12 @@
 <?
 set_time_limit(240);
 $dbname = "./db/oscar-db.db";
-
+$inpfile="http://www.readonwebtv.com/audio2.htm";
+$targetfile="/tmp/tacho_tmp";
+$USERAGENT="Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13";
+$WGET="/opt/bin/wget";
 $tablename = "audio_table";
 $tablefav = "audio_fav";
-$targetfile = "http://www.readonwebtv.com/audio2.htm" ;
 $targetenc = "windows-1251";
 
 $genre = 0;
@@ -69,6 +71,9 @@ function str_between($string, $start, $end){
 	if ($ini == 0) return ""; $ini += mb_strlen($start); $len = mb_strpos($string,$end,$ini) - $ini; 
 	return mb_substr($string,$ini,$len); 
 }
+
+exec($WGET.' -q -O '.$targetfile.'  --header "User-Agent: '.$USERAGENT.'" "'.$inpfile.'"');
+sleep(2);
 
 if ($db = new PDO("sqlite:$dbname")) {
 	$query = @$db->query("SELECT * FROM $tablename");
@@ -84,7 +89,7 @@ if ($db = new PDO("sqlite:$dbname")) {
 	} else {
  //               echo "$tablename and $dbname Already exists\n";
 	}
-
+	
 	$db->query("delete from $tablename");
 	$handle = fopen($targetfile, "r") or die("Couldn't get handle"); 
 	if ($handle) { 
@@ -142,6 +147,7 @@ if ($db = new PDO("sqlite:$dbname")) {
 	}
 	$db->commit();
 	echo "Done, Total Channels : ".$n;
+	unlink($targetfile);
 } else {
 	echo "Failed";
 	die($err);
@@ -159,7 +165,6 @@ if ($db = new PDO("sqlite:$dbname")) {
 	</item>
 </channel>
 </rss>
-
 
 
 
