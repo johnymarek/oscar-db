@@ -68,7 +68,7 @@
 <mediaDisplay name="onePartView"
 	sideLeftWidthPC="0"
 	sideRightWidthPC="0"
-		headerImageWidthPC="0"
+	headerImageWidthPC="0"
 	selectMenuOnRight="no"
 	autoSelectMenu="no"
 	autoSelectItem="no"
@@ -84,7 +84,7 @@
 	capHeightPC="64"
 	itemBackgroundColor="0:0:0"
 	itemPerPage="8"
-  itemGap="0"
+	itemGap="0"
 	bottomYPC="90"
 	backgroundColor="0:0:0"
 	showHeader="no"
@@ -94,40 +94,30 @@
 	imageUnFocus=""
 	imageParentFocus=""
 >		
-  	<text align="center" offsetXPC="0" offsetYPC="0" widthPC="100" heightPC="20" fontSize="25" backgroundColor="10:105:150" foregroundColor="100:200:255">
+  	<text align="center" offsetXPC="0" offsetYPC="0" widthPC="100" heightPC="20" fontSize="25" backgroundColor="49:11:82" foregroundColor="209:170:242">
 		  <script>getPageInfo("pageTitle");</script>
 		</text>
-		<image offsetXPC=5 offsetYPC=2 widthPC=21 heightPC=19 >
+		<image offsetXPC=5 offsetYPC=2 widthPC=30 heightPC=18 >
 		  <script>channelImage;</script>
-      <widthPC>
-        <script>
-          21 * screenYp / screenXp;
-        </script>
-      </widthPC>
-      <offsetXPC>
-        <script>
-          5 + 21 * (1 - screenYp / screenXp) / 2;
-        </script>
-      </offsetXPC>
 		</image>
-  	<text redraw="yes" offsetXPC="80" offsetYPC="12" widthPC="15" heightPC="6" fontSize="18" backgroundColor="10:105:150" foregroundColor="60:160:205">
-		  <script>sprintf("%s / ", focus-(-1))+itemCount;</script>
+  	<text redraw="yes" offsetXPC="80" offsetYPC="12" widthPC="15" heightPC="6" fontSize="18" backgroundColor="49:11:82" foregroundColor="209:170:242">
+		  <script>if(getItemInfo(focus, "idfav") == "no") " "; else  sprintf("%s / ", focus-(-1))+(itemCount-1);</script>
 		</text>
 		<text align="justify" redraw="yes" 
           lines="14" fontSize=14
 		      offsetXPC=55 offsetYPC=25 widthPC=40 heightPC=60 
-		      backgroundColor=10:80:120 foregroundColor=200:200:200>
+		      backgroundColor=112:45:247 foregroundColor=200:200:200>
 			<script>print(annotation); annotation;</script>
 		</text>
 		
-		<text align="center" redraw="yes" offsetXPC=55 offsetYPC=85 widthPC=40 heightPC=5 fontSize=13 backgroundColor=10:80:120 foregroundColor=0:0:0>
+		<text align="center" redraw="yes" offsetXPC=55 offsetYPC=85 widthPC=40 heightPC=5 fontSize=13 backgroundColor=112:45:247 foregroundColor=0:0:0>
 			<script>print(location); location;</script>
 		</text>
-
+		
 		<text align="center" redraw="yes" offsetXPC=50 offsetYPC=90 widthPC=50 heightPC=5 fontSize=13 backgroundColor=0:0:0 foregroundColor=200:80:80>
 			<script>if(getItemInfo(focus, "idfav") == "no") "[0]=Favorites; [RETURN]=Back; [HOME]=Exit"; else if(getItemInfo(focus, "idfav") > 0) "[0]=Add Favorite; [RETURN]=Back; [HOME]=Exit"; else "[0]=Remove; [RETURN]=Back; [HOME]=Exit";</script>
 		</text>
-		
+
   	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_01.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
   	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_02.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
   	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_03.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
@@ -137,7 +127,7 @@
   	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_07.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
   	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_08.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
 		<itemDisplay>
-			<text fontFile="/home/scripts/translate/fonts/fo1.ttf" align="left" lines="1" offsetXPC=0 offsetYPC=0 widthPC=100 heightPC=100>
+			<text align="left" lines="1" offsetXPC=0 offsetYPC=0 widthPC=100 heightPC=100>
 				<script>
 					idx = getQueryItemIndex();
 					focus = getFocusItemIndex();
@@ -155,14 +145,14 @@
   				<script>
   					idx = getQueryItemIndex();
   					focus = getFocusItemIndex();
-  			    if(focus==idx) "18"; else "16";
+  			    if(focus==idx) "16"; else "14";
   				</script>
 				</fontSize>
 			  <backgroundColor>
   				<script>
   					idx = getQueryItemIndex();
   					focus = getFocusItemIndex();
-  			    if(focus==idx) "10:80:120"; else "-1:-1:-1";
+  			    if(focus==idx) "112:45:247"; else "-1:-1:-1";
   				</script>
 			  </backgroundColor>
 			  <foregroundColor>
@@ -187,17 +177,18 @@
       if(userInput == "enter" || userInput == "ENTR")
       {
         showIdle();
+		stream_class = "video";
+		stream_type = "video/x-flv";
+		stream_protocol = "rtmp";	
+		
         focus = getFocusItemIndex();
-        request_title = getItemInfo(focus, "title");
-        request_url = getItemInfo(focus, "location");
-        request_options = getItemInfo(focus, "options");
+		request_title = getItemInfo(focus, "title");
+		request_url = getItemInfo(focus, "location");	
+		request_options = getItemInfo(focus, "options");
         request_image = getItemInfo(focus, "image");
         stream_url = getItemInfo(focus, "stream_url");
         stream_title = getItemInfo(focus, "stream_title");
-        stream_type = getItemInfo(focus, "stream_type");
-        stream_protocol = getItemInfo(focus, "stream_protocol");
         stream_soft = getItemInfo(focus, "stream_soft");
-        stream_class = getItemInfo(focus, "stream_class");
         stream_server = getItemInfo(focus, "stream_server");
         stream_status_url = "";
         stream_current_song = "";
@@ -241,12 +232,12 @@
         ret = "true";
 	  } 
 	  
-	else if (userInput == "zero" || userInput == "0") 
+	  else if (userInput == "zero" || userInput == "0") 
 	  {
 		ret = "true";
 		showIdle();
 		focus = getFocusItemIndex();
-		favphp = "http://127.0.0.1:82/oscar-db/list.php?f=" + getItemInfo(focus, "idfav");
+		favphp = "http://127.0.0.1:82/rtmp-db/list.php?f=" + getItemInfo(focus, "idfav");
 		ok1 = doModalRss(favphp, "mediaDisplay", "text", 0); 
 		redrawDisplay();
 	  }
@@ -275,7 +266,7 @@
       ret;
     </script>
   </onUserInput>
-	</mediaDisplay>
+  </mediaDisplay>
 		<item_template>
 		<mediaDisplay  name="threePartsView">
     	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_01.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
@@ -460,58 +451,67 @@
     print("error_info=",error_info);
   </unknownDispatcher>
 <script>
-    channelImage = "/home/scripts/oscar-db/images/ch3.png";
+    channelImage = "/home/scripts/rtmp-db/images/rtmp2.png";
 </script>
 <channel>
 <?
-$dbname = "./db/oscar-db.db";
-$tablename = "video_table";
-$tablefav = "video_fav";
+$dbname = "./db/rtmp-db.db";
+$tablename = "rtmplist";
+$tablefav = "rtmp_fav";
 
 $srch = $_GET['s'];
-$genre = $_GET['g'];
-$country = $_GET['c'];
+$lang = $_GET['l'];
 $fav = $_GET['f'];
+$qsrch = $_GET['q'];
+
 $db = new PDO("sqlite:$dbname");
-// check if this script was called with argument
-if($srch or $genre or $country) {
-echo "<title>".$srch." ".$country." ". $genre."</title>\n";
-$r = $db->query("select * from $tablename WHERE cntr LIKE '%$country%' AND gnre LIKE '%$genre%' AND chn LIKE '%$srch%' order by id");
+if (!isset($fav)) {
+ if (!isset($qsrch))  {
+		echo "<title>List ".$srch." ".$lang."</title>\n";
+		$r = @$db->query("SELECT * FROM $tablename WHERE language LIKE '%$lang%' AND title LIKE '%$srch%' ORDER BY id");
+ } else {
+ 		echo "<title>".$qsrch." (Favorites)</title>\n";
+		$r = @$db->query("SELECT * FROM $tablefav WHERE language LIKE '%$qsrch%' OR title LIKE '%$qsrch%' ORDER BY id");
+ }
 while ($row = $r->fetch(SQLITE_ASSOC)) {
+	$myopt = "Rtmp-options:-v -W ".$row['swfUrl']." ".$row['advanced']." -p ".$row['pageUrl'];
+	if ($row['playpath'] != NULL) $myopt .= " -y ".$row['playpath']; 
+	$myopt = str_replace(" ","%20",$myopt);
 	echo "<item>\n";
-	echo "<title>".$row['chn']."</title>\n";
-	echo "<location>http://www.readonwebtv.com/pages/".$row['asxl'].".asx</location>\n";
-	echo "<annotation>Ch.#: ".$row['asxl']." : ".$row['cntr']." : ".$row['gnre']."</annotation>\n";
+    echo "<title>".$row['title']."</title>\n";
+	echo "<stream_url>".$row['link']."</stream_url>\n";
+	echo "<annotation>#".$row['id']." : ".$row['title']." : ".$row['language']."</annotation>\n";
+	echo "<options>".$myopt."</options>\n";
 	echo "<idfav>".$row['id']."</idfav>\n";
-	echo "</item>\n\n";
-	}
-} else if (isset ($fav)) {
-		if($fav==0) {  // list favorites
-		echo "<title>TV Favorites List</title>\n"; 
-		 } else if($fav<0) {  // remove 
-			$fav = -$fav;
-			echo "<title>TV Favorite Deleted</title>\n"; 
-			$r = $db->query("delete from $tablefav WHERE id=$fav");
-			$row = $r->fetch(SQLITE_ASSOC);
-		} else if($fav>0) {  // Add
-			echo "<title>Added to TV Favorites</title>\n"; 
-			$r = $db->query("INSERT INTO $tablefav SELECT NULL,asxl, cntr, gnre,chn FROM $tablename WHERE id=$fav");
-			$row = $r->fetch(SQLITE_ASSOC);
-		} 
-		$r = $db->query("select * from $tablefav order by id");
-		 while ($row = $r->fetch(SQLITE_ASSOC)) {
-			echo "<item>\n";
-			echo "<title>".$row['chn']."</title>\n";
-			echo "<location>http://www.readonwebtv.com/pages/".$row['asxl'].".asx</location>\n";
-			echo "<annotation>Ch.#: ".$row['asxl']." : ".$row['cntr']." : ".$row['gnre']."</annotation>\n";
-			echo "<idfav>".-$row['id']."</idfav>\n";  // negative for future removing
-			echo "</item>\n\n";
-		  } 
-} else {
-	echo "<title>List</title>\n";
-	echo "<item>\n";
-    echo "<title>Empty</title>\n";
     echo "</item>\n\n";
+    }
+} else {
+	if($fav==0) {  // list favorites
+	echo "<title>Favorite List</title>\n"; 
+	 } else if($fav<0) {  // remove
+		$fav = -$fav;
+		echo "<title>Favorite Deleted</title>\n"; 
+		$r = $db->query("delete from $tablefav WHERE id=$fav");
+		$row = $r->fetch(SQLITE_ASSOC);
+	} else if($fav>0) {  // Add
+		echo "<title>Added to Favorites</title>\n";
+		$r=$db->query("INSERT INTO $tablefav SELECT NULL, title, swfUrl, link, pageUrl, playpath, language, advanced FROM $tablename WHERE id=$fav");
+		$row=$r->fetch(SQLITE_ASSOC);
+	} 
+	
+	$r = @$db->query("SELECT * FROM $tablefav ORDER BY id");
+	while ($row = $r->fetch(SQLITE_ASSOC)) {
+		$myopt = "Rtmp-options:-v -W ".$row['swfUrl']." ".$row['advanced']." -p ".$row['pageUrl'];
+		if ($row['playpath'] != NULL) $myopt .= " -y ".$row['playpath']; 
+		$myopt = str_replace(" ","%20",$myopt);
+		echo "<item>\n";
+		echo "<title>".$row['title']."</title>\n";
+		echo "<stream_url>".$row['link']."</stream_url>\n";
+		echo "<annotation>#".$row['id']." : ".$row['title']." : ".$row['language']."</annotation>\n";
+		echo "<options>".$myopt."</options>\n";
+		echo "<idfav>".-$row['id']."</idfav>\n";  // negative for fav delete
+		echo "</item>\n\n";
+	} 
 }
 ?>
 <item>

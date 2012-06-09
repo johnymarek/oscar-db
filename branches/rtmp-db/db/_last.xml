@@ -1,0 +1,4018 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+
+<streams>
+<stream><title><![CDATA[ 23 (Panama)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.freeetv.com/script/mediaplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://200.75.216.156/live/]]></link>
+<pageUrl><![CDATA[http://www.freeetv.com/]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[Music]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[1 1 (Ukraine)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://intv.ua/jwplayer57/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://95.67.65.135:1935/rtplive]]></link>
+<pageUrl><![CDATA[http://intv.ua/]]></pageUrl>
+<playpath><![CDATA[1plus1_m.stream]]></playpath>
+<language><![CDATA[Ukrainian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[1 Auto (Ukraine)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.parom.tv/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://ua.parom.tv:1935/stream/]]></link>
+<pageUrl><![CDATA[http://www.parom.tv/1auto]]></pageUrl>
+<playpath><![CDATA[stream110]]></playpath>
+<language><![CDATA[Ukrainian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[1 Muisc TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.1music.tv/rus/main/live/plugins/flowplayer/flowplayer.rtmp-3.2.3.swf]]></swfUrl>
+<link><![CDATA[rtmp://80.232.172.37/rtplive]]></link>
+<pageUrl><![CDATA[http://www.1music.tv/rus/main/live/]]></pageUrl>
+<playpath><![CDATA[vlc.sdp]]></playpath>
+<language><![CDATA[Russian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[11 Kanal (Ukraine)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://nashgorod.pnz.ru/mediaplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://212.3.106.230/live/]]></link>
+<pageUrl><![CDATA[http://9-channel.com/online/11-j-kanal-dnepropetrovsk/]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[Ukrainian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[1hd.ru (Russia)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://1hd.ru/player/play.swf]]></swfUrl>
+<link><![CDATA[rtmp://91.192.191.228:1935/live/livestream1]]></link>
+<pageUrl><![CDATA[http://1hd.ru]]></pageUrl>
+<playpath><![CDATA[livestream3]]></playpath>
+<language><![CDATA[Music]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[1music (Hungary)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://myhit.hu/flash/flowplayer_3/flowplayer.musicchannel.swf]]></swfUrl>
+<link><![CDATA[rtmp://92.249.129.129:1935/live]]></link>
+<pageUrl><![CDATA[http://1music.hu/]]></pageUrl>
+<playpath><![CDATA[music2]]></playpath>
+<language><![CDATA[Music]]></language>
+<advanced><![CDATA[-T mafUp8VaxEcRegEn]]></advanced>
+</stream>
+<stream><title><![CDATA[2 2 (Ukraine)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://intv.ua/jwplayer57/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://95.67.65.136:1935/rtplive]]></link>
+<pageUrl><![CDATA[http://intv.ua/]]></pageUrl>
+<playpath><![CDATA[2plus2_m.stream]]></playpath>
+<language><![CDATA[Ukrainian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[23 (Panama)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.freeetv.com/script/mediaplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://200.75.216.156/live/]]></link>
+<pageUrl><![CDATA[http://www.freeetv.com/]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[Music]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[24 Vesti (Macedonia)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.web.maxtv.mk/maxTv12.swf]]></swfUrl>
+<link><![CDATA[rtmp://62.162.118.26/h_pU4szTY7_24v]]></link>
+<pageUrl><![CDATA[http://www.web.maxtv.mk/index.aspx]]></pageUrl>
+<playpath><![CDATA[stream2]]></playpath>
+<language><![CDATA[Macedonian]]></language>
+<advanced><![CDATA[-a h_pU4szTY7_24v]]></advanced>
+</stream>
+<stream><title><![CDATA[25 (Egypt)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://25online.tv/media/live/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://fml.ams.3BF7.edgecastcdn.net/203BF7]]></link>
+<pageUrl><![CDATA[http://25online.tv/index.php]]></pageUrl>
+<playpath><![CDATA[VCS1]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[-a 203BF7]]></advanced>
+</stream>
+<stream><title><![CDATA[2M]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.webcaston.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://c31.webcaston.com/live/channel/]]></link>
+<pageUrl><![CDATA[http://www.webcaston.com/1201]]></pageUrl>
+<playpath><![CDATA[1201]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[3 PLus]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://streammafiatv.biz/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://176.31.236.184:1935/live/]]></link>
+<pageUrl><![CDATA[http://www.streammafia.com/viewpage.php?page_id=2]]></pageUrl>
+<playpath><![CDATA[3plus]]></playpath>
+<language><![CDATA[Link down]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[3 SAT]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108475.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[3sat_1_800@45493]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[3/24 (Spain)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://jonas.do.am/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://324.directe-f4v.emissio.tvcatalunya.cat/live/]]></link>
+<pageUrl><![CDATA[http://jonas.do.am/]]></pageUrl>
+<playpath><![CDATA[324_FLV@13068]]></playpath>
+<language><![CDATA[Spanish]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[33 (Spain)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://jonas.do.am/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://33d.directe-f4v.emissio.tvcatalunya.cat/live/]]></link>
+<pageUrl><![CDATA[http://jonas.do.am/]]></pageUrl>
+<playpath><![CDATA[33D_FLV@13067]]></playpath>
+<language><![CDATA[Spanish]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[45TV (Honduras)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.flashwebtown.com/mediaplayer/mediaplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://shared.flashwebtown.com/lirias/]]></link>
+<pageUrl><![CDATA[http://www.45tvhn.com/envivo.htm]]></pageUrl>
+<playpath><![CDATA[45TV]]></playpath>
+<language><![CDATA[Spanish]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[4fun tv (Poland)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://images.popler.tv/player/flowplayer.cluster.swf]]></swfUrl>
+<link><![CDATA[rtmp://188.165.251.60:8080/publishlive]]></link>
+<pageUrl><![CDATA[http://www.popler.tv/]]></pageUrl>
+<playpath><![CDATA[4funtv]]></playpath>
+<language><![CDATA[Music]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[4Kids (FilmOn)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[https://www.filmon.com/tv/modules/FilmOnTV/flash/jwplayer/jwplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://199.59.204.92/live]]></link>
+<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+<playpath><![CDATA[409.high.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[5 Kanal (Ukraine)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://media.5.ua/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmpt://media.5.ua:8080/tv/5tv/]]></link>
+<pageUrl><![CDATA[http://5.ua/live/]]></pageUrl>
+<playpath><![CDATA[5tv1]]></playpath>
+<language><![CDATA[Ukrainian]]></language>
+<advanced><![CDATA[-l 0]]></advanced>
+</stream>
+<stream><title><![CDATA[5 Kanal Petersburg (Russia)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://kaban.tv/uppod.swf]]></swfUrl>
+<link><![CDATA[rtmp://213.186.127.42:1935/live/]]></link>
+<pageUrl><![CDATA[http://kaban.tv/5kanal-online]]></pageUrl>
+<playpath><![CDATA[5kanal.stream]]></playpath>
+<language><![CDATA[Russian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[5 Plus (Macedonia)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://zulu.mk/player/player5.swf]]></swfUrl>
+<link><![CDATA[rtmp://fms.zulu.mk/zulu/]]></link>
+<pageUrl><![CDATA[http://zulu.mk/live/jungle-tv]]></pageUrl>
+<playpath><![CDATA[jungle_1]]></playpath>
+<language><![CDATA[Macedonian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[8TV (Russia)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://8tv.ru/flashp/flowplayer.commercial-3.2.5-4.swf]]></swfUrl>
+<link><![CDATA[rtmp://air.8tv.ru/]]></link>
+<pageUrl><![CDATA[http://8tv.ru/]]></pageUrl>
+<playpath><![CDATA[stream]]></playpath>
+<language><![CDATA[Russian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[9 Vollna (Russia)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://ovego.3dn.ru/file/uppod.swf]]></swfUrl>
+<link><![CDATA[rtmp://176.9.127.102/live/]]></link>
+<pageUrl><![CDATA[http://ovego.3dn.ru/publ/live_tv/muzyka/9_vollna_onlajn_transljacija/4-1-0-158]]></pageUrl>
+<playpath><![CDATA[myStream_1]]></playpath>
+<language><![CDATA[Music]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[9X Jalwa (India)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.9xjalwa.in/livetv/jalwa.swf]]></swfUrl>
+<link><![CDATA[rtmp://210.210.27.37/live/]]></link>
+<pageUrl><![CDATA[http://www.9xjalwa.in/]]></pageUrl>
+<playpath><![CDATA[9xjalwa3]]></playpath>
+<language><![CDATA[Music]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[9X Jhakaas (India)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin/]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[etvuk1]]></playpath>
+<language><![CDATA[Music]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[9X Tashan (India)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.mylivetvchannels.com/player1.swf]]></swfUrl>
+<link><![CDATA[rtmp://122.248.252.56/live]]></link>
+<pageUrl><![CDATA[http://www.sakitvs.com/9xt.htm]]></pageUrl>
+<playpath><![CDATA[mywaytashan150.sdp]]></playpath>
+<language><![CDATA[Music]]></language>
+<advanced><![CDATA[-v -a live]]></advanced>
+</stream>
+<stream><title><![CDATA[9xm]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.turbotv.in/player1.swf]]></swfUrl>
+<link><![CDATA[rtmp://65.49.77.154/base2]]></link>
+<pageUrl><![CDATA[http://www.turbotv.in]]></pageUrl>
+<playpath><![CDATA[dd2.stream]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[9XM (India)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://9xm.in/livetv/9xmPlayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://210.210.27.37/live]]></link>
+<pageUrl><![CDATA[http://9xm.in/livetv/9xmPlayer.swf]]></pageUrl>
+<playpath><![CDATA[livestream3]]></playpath>
+<language><![CDATA[Music]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[A One (Ukraine)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.parom.tv/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://ua.parom.tv:1935/stream/]]></link>
+<pageUrl><![CDATA[http://www.parom.tv/]]></pageUrl>
+<playpath><![CDATA[stream113]]></playpath>
+<language><![CDATA[Music]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[A&E(USA)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static.ilive.to/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://178.33.225.72/edge/8zqdbyxk0ybf7es]]></link>
+<pageUrl><![CDATA[http://www.ilive.to]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[A-One (Russia)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.a1tv.ru/player/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://a1tv.cdnvideo.ru/a1tv-live/]]></link>
+<pageUrl><![CDATA[http://www.a1tv.ru/online/flash/]]></pageUrl>
+<playpath><![CDATA[22]]></playpath>
+<language><![CDATA[Music]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[AAJ TAK NEWS (INDIA)]]></title>
+<info resolution="H.Q" bitrate=""/>
+<swfUrl><![CDATA[]]></swfUrl>
+<link><![CDATA[rtmp://ss1c6.idc.mundu.tv:554/prf2/cid_4.sdp]]></link>
+<pageUrl><![CDATA[http://aajtak.intoday.in/livetv.php]]></pageUrl>
+<playpath><![CDATA[0]]></playpath>
+<language><![CDATA[HINDI]]></language>
+<advanced><![CDATA[0]]></advanced>
+</stream>
+<stream><title><![CDATA[Aastha]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.turbotv.in/player1.swf]]></swfUrl>
+<link><![CDATA[rtmp://65.49.77.154/base2]]></link>
+<pageUrl><![CDATA[http://www.turbotv.in]]></pageUrl>
+<playpath><![CDATA[dd6.stream]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ABN Telugu]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.rtmp1.yupptv.tv/nwk]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com/account/FlashPlayerFrame.aspx]]></pageUrl>
+<playpath><![CDATA[abn]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Action Cinema (FilmOn)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[https://www.filmon.com/tv/modules/FilmOnTV/flash/jwplayer/jwplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://live127.origin.la3.filmon.com:1935/live/_definst_/500.high.stream]]></link>
+<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+<playpath><![CDATA[500.high.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Aden Live]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[ http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf]]></swfUrl>
+<link><![CDATA[rtmp://50.22.217.194:1935/live/livestream]]></link>
+<pageUrl><![CDATA[http://aden-tv-live.tv/streaming.htm]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[aFlam]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.webcaston.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://c81.webcaston.com/live/channel]]></link>
+<pageUrl><![CDATA[http://www.webcaston.com]]></pageUrl>
+<playpath><![CDATA[aflam2jalsa]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[-a live/channel]]></advanced>
+</stream>
+<stream><title><![CDATA[Al Alam]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.alalam.ir/sites/default/files/live/flowplayer.rtmp-3.2.0.swf]]></swfUrl>
+<link><![CDATA[ rtmp://presstv.fc.llnwd.net/presstv/alalamtv_800]]></link>
+<pageUrl><![CDATA[ http://www.alalam.ir]]></pageUrl>
+<playpath><![CDATA[alalamtv_800]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Al Alam (Iran)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.alalam.ir/sites/default/files/live/flowplayer.rtmp-3.2.0.swf]]></swfUrl>
+<link><![CDATA[rtmp://presstv.fc.llnwd.net/presstv/alalamtv_1200]]></link>
+<pageUrl><![CDATA[ http://www.alalam.ir]]></pageUrl>
+<playpath><![CDATA[alalamtv_1200]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Al Alamia]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://ns6.indexforce.com/stream/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://ns8.indexforce.com/alalamia]]></link>
+<pageUrl><![CDATA[http://alalamiatv.com]]></pageUrl>
+<playpath><![CDATA[alalamia]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Al Arabiya]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://s.delvenetworks.com/deployments/player/player-3.36.3.swf?]]></swfUrl>
+<link><![CDATA[ rtmp://llnwvps45.fc.llnwd.net:1935/llnwvps45/_definst_/7HOgy0XwSwcgkZ7HZf-_bg_C_JRd_imTFos6E2QyQF-ls_720_576_1200_1]]></link>
+<pageUrl><![CDATA[http://www.elahmad.com]]></pageUrl>
+<playpath><![CDATA[7HOgy0XwSwcgkZ7HZf-_bg_C_JRd_imTFos6E2QyQF-ls_720_576_1200_1]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Al Jazeera Documentary]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://admin.brightcove.com/viewer/us1.25.04.00.2011-05-19124744/federatedVideoUI/BrightcovePlayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live]]></link>
+<pageUrl><![CDATA[http://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png]]></pageUrl>
+<playpath><![CDATA[aljazeera_doc_high]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Al Sahraa TV (Saudi Arabia)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://player.netromedia.com/flowplayer.rtmp-3.1.3.swf]]></swfUrl>
+<link><![CDATA[rtmp://154.obj.netromedia.net/alsahra]]></link>
+<pageUrl><![CDATA[http://www.alsahraa.tv/]]></pageUrl>
+<playpath><![CDATA[alsahra]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Al Watan]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.elahmad.com/tv/swf/alwatantv.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp142128.live.edgefcs.net/live/alwatan_1@44587]]></link>
+<pageUrl><![CDATA[http://www.elahmad.com]]></pageUrl>
+<playpath><![CDATA[alwatan_1@44587]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Al-Baghdadia TV (Eqypt)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.albaghdadia.com/live_s/jwplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://212.187.212.149/vxedge/fs-ed63350000000000/]]></link>
+<pageUrl><![CDATA[http://www.albaghdadia.com/livehigh/]]></pageUrl>
+<playpath><![CDATA[fs-ed63350000000000]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Aldawri and al kaas]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://shoof.alkass.net/shoof/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://fml.44C9.edgecastcdn.net/2044C9/kass_hd1 app=2044C9]]></link>
+<pageUrl><![CDATA[http://shoof.alkass.net/shoof/?live=2]]></pageUrl>
+<playpath><![CDATA[kass_hd1]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Aldawri and al kaas plus]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://shoof.alkass.net/shoof/jwplayer/player.swf ]]></swfUrl>
+<link><![CDATA[rtmp://fml.44C9.edgecastcdn.net/2044C9/kass_plus1 app=2044C9]]></link>
+<pageUrl><![CDATA[http://shoof.alkass.net/shoof/?live=3]]></pageUrl>
+<playpath><![CDATA[kass_plus1]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Alfold tv]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.alfoldtv.hu/live23.swf]]></swfUrl>
+<link><![CDATA[rtmp://217.113.62.243/live]]></link>
+<pageUrl><![CDATA[http://www.alfoldtv.hu]]></pageUrl>
+<playpath><![CDATA[live]]></playpath>
+<language><![CDATA[Hungarian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Alhurra (Saudi Arabia)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.alhurra.com/New_streamfull.swf]]></swfUrl>
+<link><![CDATA[rtmp://62.41.58.140:1935/live?_fcs_vhost=cp51007.live.edgefcs.net]]></link>
+<pageUrl><![CDATA[http://www.alhurra.com]]></pageUrl>
+<playpath><![CDATA[Alhurra_Flash@15]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ALjazeera Arabic (Qatar)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.elahmad.com/tv/swf/aljazeera_hd.swf]]></swfUrl>
+<link><![CDATA[rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live]]></link>
+<pageUrl><![CDATA[http://www.elahmad.com/]]></pageUrl>
+<playpath><![CDATA[aljazeera_ara_high]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Aljazeera Atfal]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://qatarbroadcast.com/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://iqnastreamer2.qnaol.net/live-jscc/]]></link>
+<pageUrl><![CDATA[http://qatarbroadcast.com/]]></pageUrl>
+<playpath><![CDATA[jscc]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Aljazeera Mubasher]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.elahmad.com/tv/swf/aljazeera_mubasher.swf]]></swfUrl>
+<link><![CDATA[rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_mubasher_1]]></link>
+<pageUrl><![CDATA[http://www.elahmad.com]]></pageUrl>
+<playpath><![CDATA[aljazeera_mubasher_1]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Aljazeera Mubasher Misr]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[ http://admin.brightcove.com/viewer/us20120426.1609/federatedVideoUI/BrightcovePlayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live]]></link>
+<pageUrl><![CDATA[http://mubasher-misr.aljazeera.net/]]></pageUrl>
+<playpath><![CDATA[aljazeera_misr_high]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ALjazeera Sport  1 [HD] (Qatar)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.en.aljazeerasport.tv/ptvFlash/unifiedplayer/aljazeera/multiformat/UnifiedPlayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://ajslivefs.fplive.net/ajslive-live/]]></link>
+<pageUrl><![CDATA[http://www.en.aljazeerasport.tv/Live/channel/hd1]]></pageUrl>
+<playpath><![CDATA[ajs_ar_ch333_2400]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[live=1]]></advanced>
+</stream>
+<stream><title><![CDATA[ALjazeera Sport  1 [MQ] (Qatar)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.en.aljazeerasport.tv/ptvFlash/unifiedplayer/aljazeera/multiformat/UnifiedPlayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://ajslivefs.fplive.net/ajslive-live/]]></link>
+<pageUrl><![CDATA[http://www.en.aljazeerasport.tv/Live/channel/plus2]]></pageUrl>
+<playpath><![CDATA[ajs_ar_ch01_1000]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[live=1]]></advanced>
+</stream>
+<stream><title><![CDATA[ALjazeera Sport  2 [HD] (Qatar)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.en.aljazeerasport.tv/ptvFlash/unifiedplayer/aljazeera/multiformat/UnifiedPlayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://ajslivefs.fplive.net/ajslive-live/]]></link>
+<pageUrl><![CDATA[http://www.en.aljazeerasport.tv/Live/channel/hd2]]></pageUrl>
+<playpath><![CDATA[ajs_ar_ch334_2400]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[live=1]]></advanced>
+</stream>
+<stream><title><![CDATA[AlWatan Plus]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.elahmad.com/tv/swf/alwatantv.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp142128.live.edgefcs.net/live/alwaplus_1@44627]]></link>
+<pageUrl><![CDATA[http://www.elahmad.com]]></pageUrl>
+<playpath><![CDATA[alwaplus_1@44627]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Amrita Tv]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.turbotv.in/player1.swf]]></swfUrl>
+<link><![CDATA[rtmp://65.49.77.154/base2]]></link>
+<pageUrl><![CDATA[http://www.turbotv.in/etc_live.html]]></pageUrl>
+<playpath><![CDATA[asia3.stream]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Animal Planet (India)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://zonytvcom.info/you/player.swf]]></swfUrl>
+<link><![CDATA[rtmpe://homepc4.redirectme.net:1934/rtplive]]></link>
+<pageUrl><![CDATA[http://zonytvcom.info/natgeo.htm]]></pageUrl>
+<playpath><![CDATA[natg.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Animal Planet HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z050001.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ANN TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.elahmad.com/tv/swf/alwatantv.swf]]></swfUrl>
+<link><![CDATA[rtmp://ns8.indexforce.com/ann/ann]]></link>
+<pageUrl><![CDATA[http://www.elahmad.com]]></pageUrl>
+<playpath><![CDATA[ann]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Antenna Sud]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.antennasud.com/live/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://shiftzeroflive.cdnetworks.net/shiftzeroflive]]></link>
+<pageUrl><![CDATA[http://www.antennasud.com/]]></pageUrl>
+<playpath><![CDATA[aslive]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Antenna Tre Nordest]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://player.ooyala.com/cacheable/a79585c5e6aec4883cc1147d46c72a1f/player_v2.swf]]></swfUrl>
+<link><![CDATA[rtmp://69.22.163.38/live?_fcs_vhost=cp76676.live.edgefcs.net]]></link>
+<pageUrl><![CDATA[http://www.t-vision.it/live.html]]></pageUrl>
+<playpath><![CDATA[9mcXlzMTrpbW7puqA_HHqqInbj4bCQ3k_580_464_800@38370]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ARD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108475.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[ard_1_800@15782]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[ARD HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z030402.stream]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ARTE (France)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108478.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[arte_fr_1_800@45512]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[ARTE HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z050218.stream]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Asianet Middle East]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.turbotv.in/player1.swf]]></swfUrl>
+<link><![CDATA[rtmp://65.49.77.154/base2]]></link>
+<pageUrl><![CDATA[http://www.turbotv.in/etc_live.html]]></pageUrl>
+<playpath><![CDATA[asia1.stream ]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Astro Super Sports]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static.blive.me/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://67.215.243.218/live/]]></link>
+<pageUrl><![CDATA[http://blive.me/embed.php]]></pageUrl>
+<playpath><![CDATA[livesports ]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ATV (Hungary)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static.atv.hu/flashes/ATV_LiveVideoplayer_v2.swf]]></swfUrl>
+<link><![CDATA[rtmp://flash0.atv.hu/live]]></link>
+<pageUrl><![CDATA[http://atv.hu/online]]></pageUrl>
+<playpath><![CDATA[atvlive]]></playpath>
+<language><![CDATA[Hungarian]]></language>
+<advanced><![CDATA[-v]]></advanced>
+</stream>
+<stream><title><![CDATA[ATV Sat (Eqypt)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.anharnet.com/players/tv/jw5/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://videos.atvsat.com/atvsatlive]]></link>
+<pageUrl><![CDATA[http://www.atvsat.com/v2/ar/watch-live.html]]></pageUrl>
+<playpath><![CDATA[atvsatlive ]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[-a atvsatlive -v]]></advanced>
+</stream>
+<stream><title><![CDATA[AXN (Brazil)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.xuuby.com/player/player-licensed2.swf]]></swfUrl>
+<link><![CDATA[rtmp://31.193.12.66/histream/televisaaxn]]></link>
+<pageUrl><![CDATA[http://www.xuuby.com/]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[AXN Black]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.xuuby.com/player/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmp://93.174.93.58/histreamEd2/televisaaxnblack]]></link>
+<pageUrl><![CDATA[http://www.xuuby.com/]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[AXN Black (Portugal)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.xuuby.com/player/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmp://31.193.12.66/histreamEd2]]></link>
+<pageUrl><![CDATA[http://www.xuuby.com/]]></pageUrl>
+<playpath><![CDATA[televisaaxnblack ]]></playpath>
+<language><![CDATA[English/Portuguese]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[AXN HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/ ]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z050245.stream]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[AXN White]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.xuuby.com/player/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmp://31.193.12.66/histreamEd2]]></link>
+<pageUrl><![CDATA[http://www.xuuby.com/player.php]]></pageUrl>
+<playpath><![CDATA[televisaaxnwhite]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[B4U Movies]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://zonytvcom.info/you/player.swf]]></swfUrl>
+<link><![CDATA[rtmpe://homepc3.redirectme.net:1934/rtplive]]></link>
+<pageUrl><![CDATA[http://zonytvcom.info]]></pageUrl>
+<playpath><![CDATA[b4umovie.stream]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Batman 24/7]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.canaistv.net/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://204.45.66.178/ctv]]></link>
+<pageUrl><![CDATA[http://www.canaistv.net/tvamigos/glee.html]]></pageUrl>
+<playpath><![CDATA[batman]]></playpath>
+<language><![CDATA[Portuguese]]></language>
+<advanced><![CDATA[-a ctv]]></advanced>
+</stream>
+<stream><title><![CDATA[BBC 1]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://livetvcafe.net/player/jw_player_5/player3.SWF]]></swfUrl>
+<link><![CDATA[rtmp://rtsp-02.g-box.tv/tv2mobile]]></link>
+<pageUrl><![CDATA[http://www.time4tv.net/]]></pageUrl>
+<playpath><![CDATA[bbc1_4164.sdp]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[-a tv2mobile]]></advanced>
+</stream>
+<stream><title><![CDATA[BBC 1 (UK)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static.castalba.tv/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://74.86.186.3:80/live]]></link>
+<pageUrl><![CDATA[http://www.castalba.tv/channel/5326]]></pageUrl>
+<playpath><![CDATA[173181]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[BBC 2]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://livetvcafe.net/player/jw_player_5/player3.SWF]]></swfUrl>
+<link><![CDATA[rtmp://rtsp-02.g-box.tv/tv2mobile]]></link>
+<pageUrl><![CDATA[http://www.time4tv.net/]]></pageUrl>
+<playpath><![CDATA[bbc2_4228.sdp ]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[-a tv2mobile]]></advanced>
+</stream>
+<stream><title><![CDATA[BBC Arabic]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.bbc.co.uk/emp/releases/worldwide/revisions/617329_617319/617329_617319_emp.swf]]></swfUrl>
+<link><![CDATA[ rtmp://wsliveflash.bbc.co.uk:80/live/atv_live@3584]]></link>
+<pageUrl><![CDATA[http://www.bbc.co.uk]]></pageUrl>
+<playpath><![CDATA[atv_live@3584]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[BBC HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z010201.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[BBC World #2]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.livestation.com/flash/player/5.4/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://media2.lsops.net/live/]]></link>
+<pageUrl><![CDATA[http://www.livestation.com/]]></pageUrl>
+<playpath><![CDATA[bbcworld1_en_high.sdp]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[BFM TV (France)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://admin.brightcove.com/viewer/us20120127.1119/federatedVideoUI/BrightcovePlayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://vipwowza.yacast.net:1935/bfmtv_live]]></link>
+<pageUrl><![CDATA[http://www.bfmtv.com/direct/]]></pageUrl>
+<playpath><![CDATA[bfmtv.stream]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[live=1]]></advanced>
+</stream>
+<stream><title><![CDATA[BINDAAS TV ]]></title>
+<info resolution="M.Q" bitrate="0"/>
+<swfUrl><![CDATA[]]></swfUrl>
+<link><![CDATA[rtsp://simplelive.nexg.tv/]]></link>
+<pageUrl><![CDATA[http://laturwap.in]]></pageUrl>
+<playpath><![CDATA[colors_mpeg.sdp]]></playpath>
+<language><![CDATA[HINDI]]></language>
+<advanced><![CDATA[0]]></advanced>
+</stream>
+<stream><title><![CDATA[BIO HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z020204.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[live=1]]></advanced>
+</stream>
+<stream><title><![CDATA[Black Flag (USA)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://blackflag.tv/remote/BlackFlagTV.swf/]]></swfUrl>
+<link><![CDATA[rtmp://184.107.48.113:1935/live]]></link>
+<pageUrl><![CDATA[http://superusvox.com/]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Blue lagoon (Iceland)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://live.mila.is/english/j/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://50.97.196.226/mila/lonid.stream]]></link>
+<pageUrl><![CDATA[http://live.mila.is/english/lonid/]]></pageUrl>
+<playpath><![CDATA[lonid.stream]]></playpath>
+<language><![CDATA[Adult/WebCam]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Bluebird TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://ovego.3dn.ru/file/uppod.swf]]></swfUrl>
+<link><![CDATA[rtmp://178.33.224.86/iptv_freeblue/]]></link>
+<pageUrl><![CDATA[http://ovego.3dn.ru/publ/live_tv/ehrotika_18/bluebird_tv_live/13-1-0-169]]></pageUrl>
+<playpath><![CDATA[tv9552]]></playpath>
+<language><![CDATA[Adult]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Bluebird TV CH1]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.tvtuga.org/asx/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://ovh.firestormmedia.tv/iptv_freeblue/]]></link>
+<pageUrl><![CDATA[http://www.tvtuga.org/bluebird-tv-ch1/]]></pageUrl>
+<playpath><![CDATA[tv9541]]></playpath>
+<language><![CDATA[Adult]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Bluebird TV CH2]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://ovego.3dn.ru/file/uppod.swf]]></swfUrl>
+<link><![CDATA[rtmp://178.33.224.86/iptv_freeblue/]]></link>
+<pageUrl><![CDATA[http://ovego.3dn.ru/publ/live_tv/ehrotika_18/bluebird_tv_live/13-1-0-169]]></pageUrl>
+<playpath><![CDATA[tv9552]]></playpath>
+<language><![CDATA[Adult]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Bluebird TV CH3]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.tvtuga.org/asx/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://ovh.firestormmedia.tv/iptv_freeblue/]]></link>
+<pageUrl><![CDATA[http://www.tvtuga.org/bluebird-tv-ch3/]]></pageUrl>
+<playpath><![CDATA[tv9671]]></playpath>
+<language><![CDATA[Adult]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Brescia Info 24]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://fms.player.streamshow.it/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://fms.shared.streamshow.it/bsinfo24web]]></link>
+<pageUrl><![CDATA[http://bresciasat.com/pg001.html]]></pageUrl>
+<playpath><![CDATA[bresciainfo24]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[BYU TV (USA)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://play.sawlive.tv/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp104234.live.edgefcs.net:1935/live/]]></link>
+<pageUrl><![CDATA[http://sawlive.tv/]]></pageUrl>
+<playpath><![CDATA[9yNmhmMjqFo9h1GSeHr0uE2Wgccet-C6_1280_720_2596@55247]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[C Channel (Trinidad)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://http.vitalstreamcdn.com/flashskins/V2Player.swf]]></swfUrl>
+<link><![CDATA[rtmp://cnmglive.flash.internapcdn.net:1935/cnmg/live_1/]]></link>
+<pageUrl><![CDATA[http://www.ctntworld.com/Home.aspx]]></pageUrl>
+<playpath><![CDATA[CTVLIVE]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[C-Span 1 (US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.c-span.org/cspanVideoHD.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp82346.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.c-span.org/Live-Video/C-SPAN/]]></pageUrl>
+<playpath><![CDATA[CSPAN1@14845]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[C-Span 2 (US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.c-span.org/cspanVideoHD.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp82347.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.c-span.org/Live-Video/C-SPAN/]]></pageUrl>
+<playpath><![CDATA[CSPAN2@14846]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[C-Span 3 (US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.c-span.org/cspanVideoHD.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp82348.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.c-span.org/Live-Video/C-SPAN/]]></pageUrl>
+<playpath><![CDATA[CSPAN3@14847]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Canale 10]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.canaledieci.it/Flash/flowplayer.commercial-3.2.5.swf]]></swfUrl>
+<link><![CDATA[rtmp://188.165.206.81/ch10live]]></link>
+<pageUrl><![CDATA[http://www.canaledieci.it/Live.aspx]]></pageUrl>
+<playpath><![CDATA[ch10stream.sdp]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Canale 3 Toscana]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.canale3toscana.it/frontend/canale3toscana/player_live.swf]]></swfUrl>
+<link><![CDATA[rtmp://fml.38D1.edgecastcdn.net/2038D1]]></link>
+<pageUrl><![CDATA[http://www.canale3toscana.it/frontend/canale3toscana/live.aspx]]></pageUrl>
+<playpath><![CDATA[canale3toscana]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Canale 46]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.canale46.it/portale_web/FlowPlayerNet/flowplayer.rtmp-3.1.3.swf]]></swfUrl>
+<link><![CDATA[rtmp://vs2.streamcaster.net/test_live]]></link>
+<pageUrl><![CDATA[http://www.canale46.it]]></pageUrl>
+<playpath><![CDATA[canale46]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Cape Town TV (South Africa)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://196.41.123.9/wpclubrugby/FLVPlayer_Streaming.swf]]></swfUrl>
+<link><![CDATA[rtmp://196.41.123.9:1935/myLiveApp/instance1/]]></link>
+<pageUrl><![CDATA[http://196.41.123.9/wpclubrugby/]]></pageUrl>
+<playpath><![CDATA[wpclubrugby]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Cartoon Network (India)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.110cast.com/player/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmpe://31.204.153.82/app/cnetwork1_desistreams  ]]></link>
+<pageUrl><![CDATA[http://www.110cast.com/embed.php?u=cnetwork1_desistreams ]]></pageUrl>
+<playpath><![CDATA[cnetwork1_desistreams ]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[CBL Movie]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.live-onweb.com/events/low_embed_channel.swf]]></swfUrl>
+<link><![CDATA[rtmp://188.165.233.9:51935/cblchannel/ch1/-11290293_quicklive/]]></link>
+<pageUrl><![CDATA[http://www.live-onweb.com]]></pageUrl>
+<playpath><![CDATA[-11290293_quicklive]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[CBS WTSP (USA)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.static.ilive.to/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://178.33.225.28/edge/]]></link>
+<pageUrl><![CDATA[http://www.ilive.to]]></pageUrl>
+<playpath><![CDATA[gatal7q1rxxzdbf]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[CH10 (Israel)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://f.nanafiles.co.il/Common/Flash/Nana10Player.swf]]></swfUrl>
+<link><![CDATA[rtmp://s0ffl.castup.net:1935/993860018-123.flv/_definst_/_definst_]]></link>
+<pageUrl><![CDATA[http://10tv.nana10.co.il/Video/?VideoID=88436]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[Hebrew]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Channel 4]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://lihattv.com/scripts/videogallery.swf]]></swfUrl>
+<link><![CDATA[rtmp://rtsp-02.g-box.tv/tv2mobile/]]></link>
+<pageUrl><![CDATA[http://livetvstreaming.ucoz.com]]></pageUrl>
+<playpath><![CDATA[c4_8384.sdp ]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Channel 5 (UK)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static.castalba.tv/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://cn006.castalba.tv/live]]></link>
+<pageUrl><![CDATA[http://castalba.tv/channel/7368]]></pageUrl>
+<playpath><![CDATA[175695]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Channel V]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.kraltv.com.tr/2010/player.swf ]]></swfUrl>
+<link><![CDATA[rtmp://cp133304.live.edgefcs.net/live/]]></link>
+<pageUrl><![CDATA[http://www.startv.in]]></pageUrl>
+<playpath><![CDATA[channel1@62057]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Chaves 24/7]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.canaistv.net/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://204.45.66.178/ctv]]></link>
+<pageUrl><![CDATA[http://www.canaistv.net/tvamigos/chaves.html]]></pageUrl>
+<playpath><![CDATA[chaves]]></playpath>
+<language><![CDATA[Portuguese]]></language>
+<advanced><![CDATA[-a ctv]]></advanced>
+</stream>
+<stream><title><![CDATA[Chithiram Cartoon]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.turbotv.in/player1.swf]]></swfUrl>
+<link><![CDATA[rtmp://65.49.77.154/base2]]></link>
+<pageUrl><![CDATA[http://www.turbotv.in/etc_live.html]]></pageUrl>
+<playpath><![CDATA[kalai4.stream]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Cielo]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.freeetv.com/modules/Video_Stream/plugins/akaim/liveplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp86825.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.freeetv.com/]]></pageUrl>
+<playpath><![CDATA[cielo_std@17630]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Cinemax 2 HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z010401.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Cinemax HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z010302.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[City News Toronto]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.citytv.com/swf/NowPlaying.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp105185.live.edgefcs.net:1935/live/]]></link>
+<pageUrl><![CDATA[http://www.citytv.com]]></pageUrl>
+<playpath><![CDATA[Citynewsch_online@15402]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[CNN (USA)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.static.ilive.to/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://46.105.115.183/edge/]]></link>
+<pageUrl><![CDATA[http://www.ilive.to/view/30877/]]></pageUrl>
+<playpath><![CDATA[1mdg9yoz53vgnb2]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[CNN International (US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108476.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[cnn_1_800@45497]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[Comedy Central HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z020503.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ComedyNet (FilmOn)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[https://www.filmon.com/tv/modules/FilmOnTV/flash/jwplayer/jwplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://live127.origin.la3.filmon.com:1935/live/_definst_/497.high.stream]]></link>
+<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+<playpath><![CDATA[497.high.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Create and Craft (UK)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.idealworld.tv/common/flash/showpage/liveplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://live.simplestreamcdn.net/idealworld/chan=createandcraft]]></link>
+<pageUrl><![CDATA[http://www.idealworld.tv/WatchTvLive.aspx]]></pageUrl>
+<playpath><![CDATA[createandcraft2]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[CSI 24/7]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.canaistv.net/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://204.45.66.154/ctv]]></link>
+<pageUrl><![CDATA[http://www.canaistv.net/tvamigos/csi.html]]></pageUrl>
+<playpath><![CDATA[csi]]></playpath>
+<language><![CDATA[Portuguese]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[CTC RUSIA]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z040003.stream]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[CW(US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://streamhq.tv/player/skin2/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://109.163.236.116:1935/streamhq]]></link>
+<pageUrl><![CDATA[http://streamhq.tv]]></pageUrl>
+<playpath><![CDATA[122811]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Dave TV (UK)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://livetvcafe.net/player/jw_player_5/player3.SWF]]></swfUrl>
+<link><![CDATA[rtmp://rtsp-02.g-box.tv/tv2mobile]]></link>
+<pageUrl><![CDATA[http://livetvcafe.net/video/2HX4W2S5GXNX/Dave-TV]]></pageUrl>
+<playpath><![CDATA[dave_22272.sdp]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[DE \ EuroSport]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v3.334.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108478.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[eurosport_1_800@45515]]></playpath>
+<language><![CDATA[french]]></language>
+<advanced><![CDATA[-q]]></advanced>
+</stream>
+<stream><title><![CDATA[Denaro TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static.ildenaro.tv.dl1.ipercast.net/theme/denaro4/flash/player_5_1.swf]]></swfUrl>
+<link><![CDATA[rtmp://flash3.ipercast.net/ildenaro.tv-live/]]></link>
+<pageUrl><![CDATA[http://www.ildenaro.tv/]]></pageUrl>
+<playpath><![CDATA[live]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[DI.TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.mecast.it/embed/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://188.165.205.104/DiTv/]]></link>
+<pageUrl><![CDATA[http://www.di-tv.net/streaming/tv.html]]></pageUrl>
+<playpath><![CDATA[tv]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Direct 8]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://direct8.hexaglobe.com/flowplayer/flowplayer.commercial-3.1.5.swf]]></swfUrl>
+<link><![CDATA[rtmp://fr-par-4.stream-relay.hexaglobe.net:80/rtpdirect8live ]]></link>
+<pageUrl><![CDATA[http://www.direct8.fr]]></pageUrl>
+<playpath><![CDATA[live ]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[live=1]]></advanced>
+</stream>
+<stream><title><![CDATA[DirectStar ]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://direct8.hexaglobe.com/flowplayer/flowplayer.commercial-3.1.5.swf]]></swfUrl>
+<link><![CDATA[rtmp://fr-par-5.stream-relay.hexaglobe.net/rtpdirectstarlive ]]></link>
+<pageUrl><![CDATA[http://www.directstar.fr ]]></pageUrl>
+<playpath><![CDATA[directstar-flash2-750.sdp ]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[live=1]]></advanced>
+</stream>
+<stream><title><![CDATA[Discovery (India)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://zonytvcom.info/you/player.swf]]></swfUrl>
+<link><![CDATA[rtmpe://homepc4.redirectme.net:1934/rtplive]]></link>
+<pageUrl><![CDATA[http://zonytvcom.info/dis.htm]]></pageUrl>
+<playpath><![CDATA[disco.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Discovery HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z050002.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Discovery Science (UK)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.flashsportstreams.info/mediaplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://122.160.220.49:1935/live/DISCOVERYSCIENCE_HVGA.sdp]]></link>
+<pageUrl><![CDATA[http://www.sakitvs.com]]></pageUrl>
+<playpath><![CDATA[DISCOVERYSCIENCE_HVGA.sdp]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Discovery Turbo (UK)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.flashsportstreams.info/mediaplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://122.160.220.49/live/]]></link>
+<pageUrl><![CDATA[http://www.sakitvs.com]]></pageUrl>
+<playpath><![CDATA[DISCOVERYTURBO_HVGA.sdp]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Disney Channel (India)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://zonytvcom.info/you/player.swf]]></swfUrl>
+<link><![CDATA[rtmpe://homepc4.redirectme.net:1934/rtplive/DISXD.stream]]></link>
+<pageUrl><![CDATA[http://zonytvcom.info]]></pageUrl>
+<playpath><![CDATA[DISXD.stream]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Disney jr channel(US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.static.ilive.to/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://46.105.109.122:1935/edge]]></link>
+<pageUrl><![CDATA[http://www.ilive.to/]]></pageUrl>
+<playpath><![CDATA[4x4lgo51isxpur0]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Disney XD HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z020101.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Dragon Ball Z 24/7]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.canaistv.net/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://204.45.66.178/ctv]]></link>
+<pageUrl><![CDATA[http://www.canaistv.net/tvamigos/dbz.html]]></pageUrl>
+<playpath><![CDATA[dbz]]></playpath>
+<language><![CDATA[Portuguese]]></language>
+<advanced><![CDATA[-a ctv]]></advanced>
+</stream>
+<stream><title><![CDATA[DTV Debrecen]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://adc04fix02.gtk.hu/DTV_flash_stream_player/jw_player_5_7/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://91.82.85.71:1935/live/_definst_/]]></link>
+<pageUrl><![CDATA[http://adc04fix02.gtk.hu/]]></pageUrl>
+<playpath><![CDATA[DTV]]></playpath>
+<language><![CDATA[Hungarian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Dubai]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://statics.dubaimedia.ae/flv-player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://stream4.dmi.ae/live4/]]></link>
+<pageUrl><![CDATA[http://www.dmi.ae/live.asp]]></pageUrl>
+<playpath><![CDATA[dubaitv_500]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Dubai One]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://statics.dubaimedia.ae/flv-player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://stream4.dmi.ae/live4/]]></link>
+<pageUrl><![CDATA[http://www.dmi.ae/live.asp]]></pageUrl>
+<playpath><![CDATA[dubaione_500]]></playpath>
+<language><![CDATA[English/Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Dubai Sport]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://statics.dubaimedia.ae/flv-player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://stream4.dmi.ae/live4/]]></link>
+<pageUrl><![CDATA[http://www.dmi.ae/live.asp?lang=ar]]></pageUrl>
+<playpath><![CDATA[dubaisport_500]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[E24]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://1tvlive.in/1tvliveplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://23.21.155.146/zengalive]]></link>
+<pageUrl><![CDATA[http://1tvlive.in/e-24/]]></pageUrl>
+<playpath><![CDATA[mywaye24150.sdp]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Ennahar TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://ennahartv.net/live/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://188.165.12.105:1935/live]]></link>
+<pageUrl><![CDATA[http://ennahartv.net/live/]]></pageUrl>
+<playpath><![CDATA[EnnaharTV]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Erd TV (Hungary)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.erdtv.hu/elo/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://79.120.218.185/live/]]></link>
+<pageUrl><![CDATA[http://www.erdtv.hu/elo.html]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[Hungarian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Espansione TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.espansionetv.it/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://flash3.ipercast.net/espansionetv.it-live]]></link>
+<pageUrl><![CDATA[http://www.espansionetv.it/diretta_online.html]]></pageUrl>
+<playpath><![CDATA[live_1]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ESPN]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static2.sawlive.tv/player.swf]]></swfUrl>
+<link><![CDATA[rtmpe://173.192.48.119:1935/app]]></link>
+<pageUrl><![CDATA[http://sawlive.tv]]></pageUrl>
+<playpath><![CDATA[12204]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[-a app]]></advanced>
+</stream>
+<stream><title><![CDATA[ESPN America]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z050201.stream]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ESPN HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://freetvall.com/player/jw_player_5/player3.SWF]]></swfUrl>
+<link><![CDATA[rtmp://119.235.255.205/goal1/]]></link>
+<pageUrl><![CDATA[http://freetvall.com]]></pageUrl>
+<playpath><![CDATA[live]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ESPN Sport Center]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.static.ilive.to/jwplayer/player.swf ]]></swfUrl>
+<link><![CDATA[rtmp://176.31.231.57:1935/edge]]></link>
+<pageUrl><![CDATA[http://www.ilive.to]]></pageUrl>
+<playpath><![CDATA[lze117w3jf3cnmh]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[EuroNews (France)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://fr.euronews.net/media/player_live_1_12.swf]]></swfUrl>
+<link><![CDATA[rtmp://fr-par-1.stream-relay.hexaglobe.net:1935/rtpeuronewslive]]></link>
+<pageUrl><![CDATA[http://fr.euronews.net/infos/en-direct/]]></pageUrl>
+<playpath><![CDATA[fr_video750_flash_all.sdp]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[EuroNews (IT)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://it.euronews.net/media/player_live_1_12.swf]]></swfUrl>
+<link><![CDATA[rtmp://fr-par-1.stream-relay.hexaglobe.net:1935/rtpeuronewslive]]></link>
+<pageUrl><![CDATA[http://it.euronews.net/notizie/in-diretta/]]></pageUrl>
+<playpath><![CDATA[it_video750_flash_all.sdp]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Eurosport]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://dl.dropbox.com/u/36772493/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://live.webcaston.com/lb]]></link>
+<pageUrl><![CDATA["http://www.webcaston.com/embed.php?fileid=cmPYa2lGW_Iebht&vw=640&vh=360&domain=mypremium.tv..."]]></pageUrl>
+<playpath><![CDATA[cmPYa2lGW_Iebht]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[-a lb]]></advanced>
+</stream>
+<stream><title><![CDATA[Eurosport 2]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.streamiton.tv/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://108.59.3.246:1935/live/_definst_]]></link>
+<pageUrl><![CDATA[ http://www.yycast.com/embed.php]]></pageUrl>
+<playpath><![CDATA[kiwsportscjsportss33]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[EUROSPORT 2 HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z010301.stream]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[EUROSPORT HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z010601.stream]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Everybody Hates Chris 24/7]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.canaistv.net/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://204.45.66.178/ctv]]></link>
+<pageUrl><![CDATA[http://www.canaistv.net/tvamigos/cris.html]]></pageUrl>
+<playpath><![CDATA[cris]]></playpath>
+<language><![CDATA[Portuguese]]></language>
+<advanced><![CDATA[-a ctv]]></advanced>
+</stream>
+<stream><title><![CDATA[Fano TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.fanotv.it/portale_web/FlowPlayerNet/flowplayer.rtmp-3.1.3.swf]]></swfUrl>
+<link><![CDATA[rtmp://live.streamcaster.net/live]]></link>
+<pageUrl><![CDATA[http://www.fanotv.it/]]></pageUrl>
+<playpath><![CDATA[fanotv]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Filmon (Comedy Net)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[https://www.filmon.com/tv/modules/FilmOnTV/flash/jwplayer/jwplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://live127.origin.la3.filmon.com:1935/live/_definst_/497.high.stream]]></link>
+<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+<playpath><![CDATA[497.high.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Five]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static.castalba.tv/player.swf ]]></swfUrl>
+<link><![CDATA[rtmp://live.castalba.tv/calive]]></link>
+<pageUrl><![CDATA[http://castalba.tv/]]></pageUrl>
+<playpath><![CDATA[175695]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[FIX HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.fixhd.tv/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://video.fixhd.tv:1999/tslive1]]></link>
+<pageUrl><![CDATA[http://www.fixhd.tv/live2.php]]></pageUrl>
+<playpath><![CDATA[mpegts.stream]]></playpath>
+<language><![CDATA[Hungarian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[FLP TV (Hungary)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.fullarts.hu/fullarts_stream_cs4_2_v4.swf]]></swfUrl>
+<link><![CDATA[rtmp://wowza.tststudio.com/live/]]></link>
+<pageUrl><![CDATA[http://www.fullarts.hu/]]></pageUrl>
+<playpath><![CDATA[stream11]]></playpath>
+<language><![CDATA[Hungarian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[FOX (Portugal)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.xuuby.com/player/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmp://31.193.12.66/histreamEd2/televisafox]]></link>
+<pageUrl><![CDATA[http://www.xuuby.com/]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[FOX 2 (US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.shadownet.ro/webplayer/player1.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp26152.live.edgefcs.net/live/wjbk_flash_2@4832]]></link>
+<pageUrl><![CDATA[http://www.shadow-net.info/channels/usa/fox2.html]]></pageUrl>
+<playpath><![CDATA[wjbk_flash_2@4832]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[FOX 25 (US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.shadownet.ro/webplayer/player1.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp70098.live.edgefcs.net/live/wfxt_flash_2_5@13031]]></link>
+<pageUrl><![CDATA[http://www.shadow-net.info/channels/usa/fox25-boston.html]]></pageUrl>
+<playpath><![CDATA[wfxt_flash_2_5@13031]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[FOX Crime (Portugal)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.xuuby.com/player/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmp://94.102.56.186/histreamEd2]]></link>
+<pageUrl><![CDATA[http://www.xuuby.com/player.php]]></pageUrl>
+<playpath><![CDATA[televisafoxcrime ]]></playpath>
+<language><![CDATA[English/Portuguese]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Fox HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z050210.stream]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[FOX Life (Portugal)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.xuuby.com/player/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmp://31.193.12.66/histreamEd2/televisafoxlife]]></link>
+<pageUrl><![CDATA[http://www.xuuby.com/]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Fox Movies (Brazil)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.xuuby.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://31.193.12.66/histreamEd2]]></link>
+<pageUrl><![CDATA[http://www.xuuby.com]]></pageUrl>
+<playpath><![CDATA[ televisafoxmovies]]></playpath>
+<language><![CDATA[English/Portuguese]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Fox Movies (Portugal)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.xuuby.com/player/uu.swf]]></swfUrl>
+<link><![CDATA[rtmp://93.174.93.58/histreamEd2/televisafoxmovies]]></link>
+<pageUrl><![CDATA[http://www.xuuby.com/]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[English/Portuguese]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Fox Movies Premium Asia]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static.ilive.to/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://119.110.68.190/live]]></link>
+<pageUrl><![CDATA[http://victorynet.tv/]]></pageUrl>
+<playpath><![CDATA[mvstarx01]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Fox Spports (S.H)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.static.ilive.to/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://46.105.115.183/edge]]></link>
+<pageUrl><![CDATA[http://www.ilive.to/view/30602/www.laligabbva.info]]></pageUrl>
+<playpath><![CDATA[pvzl0amswo5t3lv]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[France 2 (France)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108476.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[france2_1_800@45496]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[France 24 (France)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.france24.com/fr/sites/all/modules/maison/aef_player/flash/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://stream2.france24.yacast.net/france24_live/fr/]]></link>
+<pageUrl><![CDATA[http://www.france24.com/]]></pageUrl>
+<playpath><![CDATA[f24_livefr]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[France 24 Arabic]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.france24.com/ar/sites/all/modules/maison/aef_player/flash/player_new.swf]]></swfUrl>
+<link><![CDATA[rtmp://stream2.france24live.yacast.net/f24_live/f24_livear]]></link>
+<pageUrl><![CDATA[http://www.france24.com]]></pageUrl>
+<playpath><![CDATA[f24_livear]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[France 3 (France)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108476.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[france3_1_800@45499]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[France 5 (France)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108476.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[france5_1_800@45501]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[Fridays Times sq (USA)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a]]></swfUrl>
+<link><![CDATA[rtmp://video2.earthcam.com/fecnetwork/fridaysHD1.flv]]></link>
+<pageUrl><![CDATA[http://www.earthcam.com/usa/newyork/timessquare/?cam=lennon_hd]]></pageUrl>
+<playpath><![CDATA[fridaysHD1.flv]]></playpath>
+<language><![CDATA[WebCam]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Friends 24/7]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.canaistv.net/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://204.45.66.178/ctv]]></link>
+<pageUrl><![CDATA[http://www.canaistv.net/tvamigos/friends.html]]></pageUrl>
+<playpath><![CDATA[friends]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[-a ctv]]></advanced>
+</stream>
+<stream><title><![CDATA[Fuel TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.xuuby.com/player/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmp://31.193.12.66:1935]]></link>
+<pageUrl><![CDATA[http://www.xuuby.com/player.php?chname=televisafueltv]]></pageUrl>
+<playpath><![CDATA[televisafueltv ]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[-a histreamEd2]]></advanced>
+</stream>
+<stream><title><![CDATA[Futurama 24/7]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.canaistv.net/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://204.45.66.178/ctv]]></link>
+<pageUrl><![CDATA[http://www.canaistv.net/tvamigos/friends.html]]></pageUrl>
+<playpath><![CDATA[futurama]]></playpath>
+<language><![CDATA[Portuguese]]></language>
+<advanced><![CDATA[-a ctv]]></advanced>
+</stream>
+<stream><title><![CDATA[Glee 24/7]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.canaistv.net/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://204.45.66.178/ctv]]></link>
+<pageUrl><![CDATA[http://www.canaistv.net/tvamigos/glee.html]]></pageUrl>
+<playpath><![CDATA[glee]]></playpath>
+<language><![CDATA[Portuguese]]></language>
+<advanced><![CDATA[-a ctv]]></advanced>
+</stream>
+<stream><title><![CDATA[GOD TV (US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.god.tv/sites/default/files/player/player56/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://godtv.fc.llnwd.net/godtv]]></link>
+<pageUrl><![CDATA[http://www.god.tv/live/]]></pageUrl>
+<playpath><![CDATA[Us.500]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Gol TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://mips.tv/content/scripts/eplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://50.23.239.11/live/cvusufv?id=109073.flv]]></link>
+<pageUrl><![CDATA[http://mips.tv/embedplayer/cvusufv/1/728/460 ]]></pageUrl>
+<playpath><![CDATA[cvusufv?id=109073.flv]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Golf Channel]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://streami.tv/fp/flowplayer.commercial-3.2.8.swf]]></swfUrl>
+<link><![CDATA[rtmpe://76.10.222.119/streami/]]></link>
+<pageUrl><![CDATA[http://streami.tv/embed/e2.php]]></pageUrl>
+<playpath><![CDATA[streamkiwiwiwidsd-qfak]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[-T VyPxYFDj4BvxtVv7]]></advanced>
+</stream>
+<stream><title><![CDATA[Gossip Girl 24/7]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.canaistv.net/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://204.45.66.74/ctv]]></link>
+<pageUrl><![CDATA[http://www.canaistv.net/tvamigos/gossip.html]]></pageUrl>
+<playpath><![CDATA[gossip]]></playpath>
+<language><![CDATA[Portuguese]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Hallmark(US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.static.ilive.to/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://46.105.109.122:1935/edge]]></link>
+<pageUrl><![CDATA[http://www.ilive.to]]></pageUrl>
+<playpath><![CDATA[k6sl277kqlswruk]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Halom TV (Hungary)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://mail.battanet.hu/halom/flvplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://stream.battanet.hu/halom]]></link>
+<pageUrl><![CDATA[http://www.halomtv.hu/vtv.html]]></pageUrl>
+<playpath><![CDATA[tv]]></playpath>
+<language><![CDATA[Hungarian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[HBO]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://victorynet.tv/media/player/player.swf ]]></swfUrl>
+<link><![CDATA[rtmp://119.110.68.190/live]]></link>
+<pageUrl><![CDATA[http://victorynet.tv/]]></pageUrl>
+<playpath><![CDATA[mvhbox01]]></playpath>
+<language><![CDATA[Indonesian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[HBO 2 HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z010701.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[HBO HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z010402.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[HBO Plus (Brazil)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://tv-msn.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://streamer.istreamlive.net/133_182/]]></link>
+<pageUrl><![CDATA[http://www.tv-msn.com/]]></pageUrl>
+<playpath><![CDATA[hboplus]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[HGTV HD (US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.tikilive.com/public/flash/viewerModules/player/PlayerModule.swf]]></swfUrl>
+<link><![CDATA[rtmp://fms3.tikilive.com:1935/view/25503_212/stream25503]]></link>
+<pageUrl><![CDATA[http://www.tikilive.com/]]></pageUrl>
+<playpath><![CDATA[stream25503]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[History HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z050003.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[HLN (US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://msnbclive.eu/getswf.php?name=player.swf]]></swfUrl>
+<link><![CDATA[rtmp://a.cdn.msnbclive.eu/edge/hln_live]]></link>
+<pageUrl><![CDATA[http://blog.livenewschat.tv/the-nancy-grace-room/]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Hollywood (Portugal)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.xuuby.com/player/uu.swf]]></swfUrl>
+<link><![CDATA[rtmp://31.193.12.66/histreamEd2/televisahollywood]]></link>
+<pageUrl><![CDATA[http://www.xuuby.com/]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[English ]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Hollywood Channel (FilmOn)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[https://www.filmon.com/tv/modules/FilmOnTV/flash/jwplayer/jwplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://199.59.204.92/live]]></link>
+<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+<playpath><![CDATA[411.high.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[HSN 2(US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://bubastvshack.com/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp87160.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://bubastvshack.com]]></pageUrl>
+<playpath><![CDATA[Flash_HSN2_3@12919 ]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[HTB]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z040001.stream]]></playpath>
+<language><![CDATA[Russian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[HUM TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static.blive.me/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://67.215.243.218/live/115520]]></link>
+<pageUrl><![CDATA[http://blive.me/embed.php?v=115520&vw=600&vh=450&typeplayer=0&domain=www.dmastiers.com]]></pageUrl>
+<playpath><![CDATA[115520]]></playpath>
+<language><![CDATA[Urdu]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[HustlerTV HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/ ]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z990102.stream]]></playpath>
+<language><![CDATA[18+]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[i Télé]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://player.longtailvideo.com/player.swf ]]></swfUrl>
+<link><![CDATA[rtmp://live-fms.canalplus.fr:1935/live ]]></link>
+<pageUrl><![CDATA[http://webactu.freehostia.com/france/itele.html ]]></pageUrl>
+<playpath><![CDATA[itele_800@42248 ]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[live=1]]></advanced>
+</stream>
+<stream><title><![CDATA[iFilm (Iran)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://live.irib.ir/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://irinn.irib-live.hypercdn.com/live-547886575]]></link>
+<pageUrl><![CDATA[http://live.irib.ir/playerfifilm256.htm]]></pageUrl>
+<playpath><![CDATA[ifilm-256.sdp]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[-a live-547886575]]></advanced>
+</stream>
+<stream><title><![CDATA[India TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.rtmp1.yupptv.tv/nwk]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com/account/FlashPlayerFrame.aspx]]></pageUrl>
+<playpath><![CDATA[indiatv]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[-a nwk]]></advanced>
+</stream>
+<stream><title><![CDATA[Information TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://109.169.29.6/jw/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmp://109.169.29.6/InformationTV/livestream/]]></link>
+<pageUrl><![CDATA[http://www.information.tv/WatchLive/FlashPlayer/]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Intelligence 2]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.livestation.com/flash/player/5.6/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://media4.lsops.net/intelligence2/]]></link>
+<pageUrl><![CDATA[http://www.livestation.com/channels/78-intelligence-english/]]></pageUrl>
+<playpath><![CDATA[playlist]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Iqraa TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.elahmad.com/tv/swf/iqraatv.swf]]></swfUrl>
+<link><![CDATA[rtmp://fl1.viastreaming.net/iqraatv]]></link>
+<pageUrl><![CDATA[http://www.elahmad.com/tv/iqraatv.php]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Iqraa TV Asia/Australia]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.elahmad.com/tv/swf/iqraatv.swf]]></swfUrl>
+<link><![CDATA[rtmp://fl1.viastreaming.net/iqraatv2]]></link>
+<pageUrl><![CDATA[http://www.elahmad.com/tv/iqraatv.php]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Iqraa TV Europe/Africa]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.elahmad.com/tv/swf/iqraatv.swf]]></swfUrl>
+<link><![CDATA[rtmp://fl1.viastreaming.net/iqraatv3]]></link>
+<pageUrl><![CDATA[http://www.elahmad.com/tv/iqraatv.php]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ITALIA 1]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z010502.stream]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ITALIA 5]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z010501.stream]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ITV 2 HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z020102.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ITV 3 HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z020103.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ITV1]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://livetvcafe.net/player/jw_player_5/player3.SWF]]></swfUrl>
+<link><![CDATA[rtmp://rtsp-02.g-box.tv/tv2mobile]]></link>
+<pageUrl><![CDATA[http://www.time4tv.net/2011/06/itv-1.html]]></pageUrl>
+<playpath><![CDATA[itv1_8261.sdp]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[-a tv2mobile]]></advanced>
+</stream>
+<stream><title><![CDATA[Jai Hind]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[jaihind2]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Jaya Movies]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.rtmp1.yupptv.tv/nwk]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com/account/FlashPlayerFrame.aspx]]></pageUrl>
+<playpath><![CDATA[jayamovies]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[-a nwk]]></advanced>
+</stream>
+<stream><title><![CDATA[Jaya Plus]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.rtmp1.yupptv.tv/nwk]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com/account/FlashPlayerFrame.aspx]]></pageUrl>
+<playpath><![CDATA[jayaplus]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[-a nwk]]></advanced>
+</stream>
+<stream><title><![CDATA[Kabel 1]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v3.334.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108341.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[kabel1_1_800@43055]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[-a live]]></advanced>
+</stream>
+<stream><title><![CDATA[KABEL 1 HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z010103.stream]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Kairali]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[kairali9002]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[kalaignar isaiaruvi TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.turbotv.in/player1.swf]]></swfUrl>
+<link><![CDATA[rtmp://65.49.77.154/base2]]></link>
+<pageUrl><![CDATA[http://www.turbotv.in/etc_live.html]]></pageUrl>
+<playpath><![CDATA[kalai2.stream]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Kalaignar Murasu TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.turbotv.in/player1.swf]]></swfUrl>
+<link><![CDATA[rtmp://65.49.77.154/base2]]></link>
+<pageUrl><![CDATA[http://www.turbotv.in/etc_live.html]]></pageUrl>
+<playpath><![CDATA[kalai0.stream]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Kalaignar TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.turbotv.in/player1.swf]]></swfUrl>
+<link><![CDATA[rtmp://65.49.77.154/base2]]></link>
+<pageUrl><![CDATA[http://www.turbotv.in/etc_live.html]]></pageUrl>
+<playpath><![CDATA[kalai5.stream]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Kecskemeti tv]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://nrw.kecskemetitv.hu/media/mediaplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://193.142.209.45/live]]></link>
+<pageUrl><![CDATA[http://kecskemetitv.hu/]]></pageUrl>
+<playpath><![CDATA[ktv]]></playpath>
+<language><![CDATA[Hungarian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[KIKA]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v3.334.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108476.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[kika_1_800@45500]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[KTK (Kazakhstan)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.ktk.kz/FlashPlayer/Uppod/Uppod-0936.swf]]></swfUrl>
+<link><![CDATA[rtmp://195.49.213.56/ktklive]]></link>
+<pageUrl><![CDATA[http://www.ktk.kz]]></pageUrl>
+<playpath><![CDATA[live.hq]]></playpath>
+<language><![CDATA[Kazakh]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[KTV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.rtmp1.yupptv.tv/nwk]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com/account/FlashPlayerFrame.aspx]]></pageUrl>
+<playpath><![CDATA[ktv]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[-a nwk]]></advanced>
+</stream>
+<stream><title><![CDATA[L-TV ]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.blitzvideoserver06.de/blitzvideoplayer4.swf]]></swfUrl>
+<link><![CDATA[rtmp://62.113.210.105/ltv-live]]></link>
+<pageUrl><![CDATA[http://www.l-tv-live.de]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[La 6 (Italy)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://webtv.la6.tv/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://la6.stream.internetone.it/streaming]]></link>
+<pageUrl><![CDATA[http://webtv.la6.tv/]]></pageUrl>
+<playpath><![CDATA[la6.stream]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[La Deux (Belgium)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 ]]></swfUrl>
+<link><![CDATA[rtmp://rtmp.infomaniak.ch/]]></link>
+<pageUrl><![CDATA[http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 ]]></pageUrl>
+<playpath><![CDATA[ladeux]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[-a livecast swfVfy=1 live=1 timeout=60]]></advanced>
+</stream>
+<stream><title><![CDATA[La Tele (Switzerland)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.latele.ch/webtv/MAPlayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://rtmp.infomaniak.ch:1935/livecast]]></link>
+<pageUrl><![CDATA[http://www.latele.ch/]]></pageUrl>
+<playpath><![CDATA[latele]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[La Une (Belgium)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668 ]]></swfUrl>
+<link><![CDATA[rtmp://rtmp.infomaniak.ch/]]></link>
+<pageUrl><![CDATA[http://static.infomaniak.ch/livetv/playerMain-v4.1.swf?72668]]></pageUrl>
+<playpath><![CDATA[laune]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[-a livecast swfVfy=1 live=1 timeout=60]]></advanced>
+</stream>
+<stream><title><![CDATA[Life Ok]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://zonytvcom.info/you/player.swf]]></swfUrl>
+<link><![CDATA[rtmpe://homepc2.redirectme.net:1934:1934/rtplive/lifeo.stream]]></link>
+<pageUrl><![CDATA[http://zonytvcom.info]]></pageUrl>
+<playpath><![CDATA[lifeo.stream]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Lira TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://releases.flowplayer.org/swf/flowplayer.commercial-3.2.7.swf]]></swfUrl>
+<link><![CDATA[rtmp://streaming.positivonet.it/live/]]></link>
+<pageUrl><![CDATA[http://streaming.positivonet.it/streamingplayer.html]]></pageUrl>
+<playpath><![CDATA[liratv]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Lost 24/7]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.canaistv.net/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://204.45.66.178/ctv]]></link>
+<pageUrl><![CDATA[http://www.canaistv.net/tvamigos/lost.html]]></pageUrl>
+<playpath><![CDATA[lost]]></playpath>
+<language><![CDATA[Portuguese]]></language>
+<advanced><![CDATA[-a ctv]]></advanced>
+</stream>
+<stream><title><![CDATA[M6]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/ ]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z010106.stream]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Maa Gold]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[maajuniors9001]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Maa Music]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[maamusic1]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Mana Sat (Portugal)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://lihattv.com/scripts/videogallery.swf]]></swfUrl>
+<link><![CDATA[rtmp://77.91.204.130/manasat]]></link>
+<pageUrl><![CDATA[http://livetvstreaming.ucoz.com]]></pageUrl>
+<playpath><![CDATA[manasat2]]></playpath>
+<language><![CDATA[Portuguese]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Maroc5]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.webcaston.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://c21.webcaston.com/live/channel]]></link>
+<pageUrl><![CDATA[http://www.webcaston.com/rtm212]]></pageUrl>
+<playpath><![CDATA[8881]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[-a live/channel]]></advanced>
+</stream>
+<stream><title><![CDATA[Maroc7]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.webcaston.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://c51.webcaston.com/live/channel]]></link>
+<pageUrl><![CDATA[http://www.webcaston.com/rtm212]]></pageUrl>
+<playpath><![CDATA[jalsa12]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[-a live/channel]]></advanced>
+</stream>
+<stream><title><![CDATA[Maxx Vision]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://player.longtailvideo.com/player.swf ]]></swfUrl>
+<link><![CDATA[rtmp://origin2.wmncdn.net:1935/maxvision/_definst_/5a637c47463e236e652024577d564737]]></link>
+<pageUrl><![CDATA[http://livetvchannelsfree.in/maxvision.html]]></pageUrl>
+<playpath><![CDATA[5a637c47463e236e652024577d564737]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[-a maxvision]]></advanced>
+</stream>
+<stream><title><![CDATA[MBC 2 (MQ)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.arab-eyes.tv/live/liveS.swf]]></swfUrl>
+<link><![CDATA[rtmpe://217.172.179.252/live/canal2]]></link>
+<pageUrl><![CDATA[http://www.arab-eyes.tv/form/index.php#]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[English/Arabic]]></language>
+<advanced><![CDATA[--live -C S:PLAYER]]></advanced>
+</stream>
+<stream><title><![CDATA[Medi1Sat]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.webcaston.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://c81.webcaston.com/live/channel]]></link>
+<pageUrl><![CDATA[http://www.webcaston.com/rtm212]]></pageUrl>
+<playpath><![CDATA[midi1]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[-a live/channel]]></advanced>
+</stream>
+<stream><title><![CDATA[Mega Music]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[megamusiq1]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Mega TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[mega241]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Mega TV 1]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[megatv1]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[MGM HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z020401.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Miskolc TV (Hungary)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.minap.hu/online/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://85.119.8.141:8080/live/]]></link>
+<pageUrl><![CDATA[http://www.minap.hu/online/index.php]]></pageUrl>
+<playpath><![CDATA[live]]></playpath>
+<language><![CDATA[Hungarian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[MOTORS TV UK ]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.xuuby.com/player.php]]></swfUrl>
+<link><![CDATA[rtmp://31.193.12.66/histreamEd2/televisamotorstv.flv ]]></link>
+<pageUrl><![CDATA[http://www.xuuby.com/player.php]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[live=1]]></advanced>
+</stream>
+<stream><title><![CDATA[Movies4men (UK)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static.castalba.tv/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://68.68.16.146/live]]></link>
+<pageUrl><![CDATA[http://www.castalba.tv/channel/6861]]></pageUrl>
+<playpath><![CDATA[175069]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[MTV Live HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z010001.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[MTV(US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.static.ilive.to/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://46.105.109.122:1935/edge]]></link>
+<pageUrl><![CDATA[http://www.ilive.to]]></pageUrl>
+<playpath><![CDATA[tg5ci7t54pivbem]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[N-TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v3.334.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp115491.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[ntv_1_800@45520]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[N24]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z050008.stream]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[NAT Geo HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z020501.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[NAT Geo Wild]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z050204.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[live=1]]></advanced>
+</stream>
+<stream><title><![CDATA[NBC-WESH2 (US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.veemi.com/player/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmp://76.10.221.119/live/_definst_ ]]></link>
+<pageUrl><![CDATA[http://www.veemi.com/embed.php?v=video101]]></pageUrl>
+<playpath><![CDATA[video101]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[NBC-WFLA8(USA)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.static.ilive.to/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://178.33.225.28/edge/]]></link>
+<pageUrl><![CDATA[http://www.ilive.to]]></pageUrl>
+<playpath><![CDATA[z6xnl2o41o50qjz]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[News X]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.rtmp1.yupptv.tv/nwk]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com/account/FlashPlayerFrame.aspx]]></pageUrl>
+<playpath><![CDATA[newsx]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[-a nwk]]></advanced>
+</stream>
+<stream><title><![CDATA[Niagara falls (USA)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.tikilive.com/public/flash/Viewer.swf]]></swfUrl>
+<link><![CDATA[rtmp://fms.tikilive.com:1935/view/25548_132/stream25548]]></link>
+<pageUrl><![CDATA[http://www.niagarafallslive.com/niagara_falls_webcam.ht]]></pageUrl>
+<playpath><![CDATA[stream25548]]></playpath>
+<language><![CDATA[WebCam]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Nick - Comedy Central]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v3.334.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108478.live.edgefcs.net/live/]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[nick_cc_1_800@45519]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Noor Dubai TV (UAE)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://statics.dubaimedia.ae/flv-player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://stream4.dmi.ae/live4/]]></link>
+<pageUrl><![CDATA[http://www.dmi.ae/live.asp?lang=ar]]></pageUrl>
+<playpath><![CDATA[noordubai_500]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[NRJ12]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/ ]]></link>
+<pageUrl><![CDATA[http://www.futuboxhd.com/]]></pageUrl>
+<playpath><![CDATA[z010110.stream]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[live=1]]></advanced>
+</stream>
+<stream><title><![CDATA[Oeins]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.oeins.de/embed/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://streaming.orgatech.de/o1/oeins]]></link>
+<pageUrl><![CDATA[http://www.oeins.de/lokalsender/webtv.html]]></pageUrl>
+<playpath><![CDATA[oeins]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[OKTO]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://okto.tv/fxJwPlayerPlugin/swf/player-5.7.swf]]></swfUrl>
+<link><![CDATA[rtmp://atwss.atusmedia.cc/oktolive]]></link>
+<pageUrl><![CDATA[http://okto.tv/schauen/livestream]]></pageUrl>
+<playpath><![CDATA[okto-low.stream]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[-v -a oktolive]]></advanced>
+</stream>
+<stream><title><![CDATA[ORF 1]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static.castalba.tv/player.swf ]]></swfUrl>
+<link><![CDATA[rtmp://live.castalba.tv/calive]]></link>
+<pageUrl><![CDATA[http://castalba.tv/]]></pageUrl>
+<playpath><![CDATA[178023]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Paradisio TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.tvtuga.org/asx/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://93.89.84.201/iptv_club_paradiso/]]></link>
+<pageUrl><![CDATA[http://www.tvtuga.org/club-paradiso/]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[Adult]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Pentagon Channel (US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.pentagonchannel.mil/swf/flvPlayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp114761.live.edgefcs.net:443/live/ ]]></link>
+<pageUrl><![CDATA[http://www.pentagonchannel.mil/library.html]]></pageUrl>
+<playpath><![CDATA[tpc-live_1@44263]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[-a live]]></advanced>
+</stream>
+<stream><title><![CDATA[Penthouse 2 HD ]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/ ]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z990104.stream]]></playpath>
+<language><![CDATA[18+]]></language>
+<advanced><![CDATA[live=1]]></advanced>
+</stream>
+<stream><title><![CDATA[Penthouse HD ]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z990103.stream]]></playpath>
+<language><![CDATA[18+]]></language>
+<advanced><![CDATA[live=1]]></advanced>
+</stream>
+<stream><title><![CDATA[People TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[people9001]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Press TV (Iran)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.presstv.ir/live/llnw/LLNWPlayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://presstv.fc.llnwd.net/presstv]]></link>
+<pageUrl><![CDATA[http://www.presstv.ir/live/llnw/]]></pageUrl>
+<playpath><![CDATA[presstv_800]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Prison Break 24/7]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.canaistv.net/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://204.45.66.178/ctv]]></link>
+<pageUrl><![CDATA[http://www.canaistv.net/tvamigos/prisonbreak.html]]></pageUrl>
+<playpath><![CDATA[prison]]></playpath>
+<language><![CDATA[Portuguese]]></language>
+<advanced><![CDATA[-a ctv]]></advanced>
+</stream>
+<stream><title><![CDATA[Pro 7]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v3.334.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108341.live.edgefcs.net/live/]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com/]]></pageUrl>
+<playpath><![CDATA[pro7_1_800@43051]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Pro 7 (Mirror)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static.castalba.tv/player.swf ]]></swfUrl>
+<link><![CDATA[rtmp://live.castalba.tv/calive]]></link>
+<pageUrl><![CDATA[http://castalba.tv/]]></pageUrl>
+<playpath><![CDATA[175070]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[PRVI 1 RUSIA]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z040002.stream]]></playpath>
+<language><![CDATA[Russian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[PTV Home]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.pakistanvision.com/swfs/videoPlayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://s4s1.pakistanvision.tv/live]]></link>
+<pageUrl><![CDATA[http://ptv.com.pk/PTVHOME-live.asp]]></pageUrl>
+<playpath><![CDATA[PTVhome]]></playpath>
+<language><![CDATA[Urdu]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[PTV News]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.pakistanvision.com/swfs/videoPlayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://s4s1.pakistanvision.tv/live]]></link>
+<pageUrl><![CDATA[http://ptv.com.pk/PTVHOME-live.asp]]></pageUrl>
+<playpath><![CDATA[PTVnews]]></playpath>
+<language><![CDATA[Urdu]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Qatar TV (Qatar)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.shadownet.ro/webplayer/player-sdw.swf]]></swfUrl>
+<link><![CDATA[rtmp://78.100.44.238/secure/]]></link>
+<pageUrl><![CDATA[http://www.shadow-net.info/channels/arabtv/qatar-tv.html]]></pageUrl>
+<playpath><![CDATA[Qtv]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Quartarete Blu]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.quartarete.tv/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmp://194.116.73.234/quartaretetv2]]></link>
+<pageUrl><![CDATA[http://www.quartarete.tv/blu.html]]></pageUrl>
+<playpath><![CDATA[quartaretebluweb]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Quartarete TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.quartarete.tv/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmp://194.116.73.146/quartaretetv]]></link>
+<pageUrl><![CDATA[http://www.quartarete.tv/home.html]]></pageUrl>
+<playpath><![CDATA[quartareteweb]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Quarto Canale TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.bsnewline.com/flv/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://flash1.bsnewline.com/quartocanale]]></link>
+<pageUrl><![CDATA[http://www.bsnewline.com]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[QVC (UK)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.qvc.com/swf/hp_video_player2.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp40617.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.qvc.com/]]></pageUrl>
+<playpath><![CDATA[qvc-lfs@912]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[QVC (US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.qvc.com/swf/hp_video_player2.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp40617.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.qvc.com/]]></pageUrl>
+<playpath><![CDATA[qvc-lfs@912]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Rai 1]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108475.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[rai1_1_800@44470 ]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[RAI 1 HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z050214.stream]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[RAI 2 HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z050215.stream]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Raj News]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[rajnews1]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[RDI (Canada)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://publique.radio-canada.ca/audio-video/player/flash/1.0/normal/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp86675.live.edgefcs.net:443/live/]]></link>
+<pageUrl><![CDATA[http://www.radio-canada.ca/rdi/]]></pageUrl>
+<playpath><![CDATA[RDI_TV@49158]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Redbull]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://admin.brightcove.com/viewer/us1.25.05.09.2011-07-21172124/federatedVideo/BrightcovePlayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp93704.live.edgefcs.net:80/live]]></link>
+<pageUrl><![CDATA[http://www.redbull.tv/Redbulltv/]]></pageUrl>
+<playpath><![CDATA[redbull2@21839]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Redlight]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/ ]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z990101.stream]]></playpath>
+<language><![CDATA[18+]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Reporters News]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.turbotv.in/player1.swf]]></swfUrl>
+<link><![CDATA[rtmp://65.49.77.154/base2]]></link>
+<pageUrl><![CDATA[http://www.turbotv.in/etc_live.html]]></pageUrl>
+<playpath><![CDATA[asia5.stream]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Rete 8]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://win.rete8.it/streaming/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://stream.6indiretta.com/8042]]></link>
+<pageUrl><![CDATA[http://win.rete8.it/streaming/player.htm]]></pageUrl>
+<playpath><![CDATA[8042]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Rete Oro]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://webcontv.com/ReteOro/flashfiles/WebconTV1.1.swf]]></swfUrl>
+<link><![CDATA[rtmp://176.31.225.220:1935/ReteOro/LiveIst/]]></link>
+<pageUrl><![CDATA[http://webcontv.com/ReteOro/flashfiles/webconTV.jsp]]></pageUrl>
+<playpath><![CDATA[ReteOro]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Rete Veneta]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf]]></swfUrl>
+<link><![CDATA[rtmp://video.reteveneta.it:1935/live]]></link>
+<pageUrl><![CDATA[http://www.reteveneta.it/live.aspx]]></pageUrl>
+<playpath><![CDATA[ReteVenetaStream1]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[RFH ]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.freeetv.com/script/mediaplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://62.113.210.250/medienasa-live/]]></link>
+<pageUrl><![CDATA[http://www.waaatch.com/]]></pageUrl>
+<playpath><![CDATA[RFH_high]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[RK News]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[rknews1]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[RomaUno TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.romauno.tv/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://188.40.2.148:1935/romauno]]></link>
+<pageUrl><![CDATA[http://www.romauno.tv]]></pageUrl>
+<playpath><![CDATA[live.sdp]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[RSI LA 1]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108478.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[rsila1_1_800@45513]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[RSI LA 2]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108478.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[rsila2_2_800@45514]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[RTE ONE (Ireland)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.rte.ie/player/assets/player_454.swf]]></swfUrl>
+<link><![CDATA[rtmpe://fmsod.rte.ie/live/]]></link>
+<pageUrl><![CDATA[http://www.rte.ie/]]></pageUrl>
+<playpath><![CDATA[rte1]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[-a live/ -f WIN 10,3,183,10]]></advanced>
+</stream>
+<stream><title><![CDATA[RTE TWO (Ireland)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.rte.ie/player/assets/player_454.swf]]></swfUrl>
+<link><![CDATA[rtmpe://fmsod.rte.ie/live/]]></link>
+<pageUrl><![CDATA[http://www.rte.ie/]]></pageUrl>
+<playpath><![CDATA[rte2]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[-a live/ -f WIN 10,3,183,10]]></advanced>
+</stream>
+<stream><title><![CDATA[RTL]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v3.334.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108341.live.edgefcs.net/live/]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com/]]></pageUrl>
+<playpath><![CDATA[rtl_1_800@43050]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[RTL (Mirror)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static.castalba.tv/player.swf ]]></swfUrl>
+<link><![CDATA[rtmp://live.castalba.tv/calive]]></link>
+<pageUrl><![CDATA[http://castalba.tv/]]></pageUrl>
+<playpath><![CDATA[176307]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[RTL HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z030101.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[RTL II]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v3.334.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108341.live.edgefcs.net/live/]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com/]]></pageUrl>
+<playpath><![CDATA[rtl2_1_800@43053]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[RTL II HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z030104.stream]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[RTL TVI]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://sapiens.bplaced.net/data/StrobeMediaPlayback.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp132832.live.edgefcs.net:443/live/TVI_Inlet_8@21855]]></link>
+<pageUrl><![CDATA[http://fbhost-tv.com/pays/belgique/rtltvi2.php]]></pageUrl>
+<playpath><![CDATA[TVI_Inlet_8@21855]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[RTM]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.webcaston.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://c41.webcaston.com/live/channel]]></link>
+<pageUrl><![CDATA[http://www.webcaston.com/rtm212]]></pageUrl>
+<playpath><![CDATA[rtm212]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[-a live/channel]]></advanced>
+</stream>
+<stream><title><![CDATA[RTP TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://ondemand.superstreaming.it/flowplayer.rtmp-3.1.3.swf]]></swfUrl>
+<link><![CDATA[rtmp://188.165.203.108/live/]]></link>
+<pageUrl><![CDATA[http://ondemand.superstreaming.it/flash/live.html]]></pageUrl>
+<playpath><![CDATA[rtplive]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[RTS deux (Switzerland)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp115491.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[tsr2_1_800@45523]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[RTS un (Switzerland)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp115491.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[tsr1_1_800@45522 ]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[Russia AlYaum]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://arabic.rt.com/design/players/liveplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://russiatoday.fms.visionip.tv/rt/Russia_al_yaum_200k_3/1000k_1]]></link>
+<pageUrl><![CDATA[http://arabic.rt.com]]></pageUrl>
+<playpath><![CDATA[1000k_1]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sahara Aalami]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[saharaaalami1]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sahara Bihar]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[saharabihar1]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sahara Madhya pradesh]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[saharamadhyap1]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sahara Mumbai]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[saharamum1]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sahara Samay]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[saharasamaynew1]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sakshi]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[sakshi1]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sama Dubai]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://statics.dubaimedia.ae/flv-player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://stream4.dmi.ae/live4/]]></link>
+<pageUrl><![CDATA[http://www.dmi.ae/live.asp?lang=ar]]></pageUrl>
+<playpath><![CDATA[samadubai_500]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Samaa News]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://live.samaa.tv/swfs/videoPlayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://38.96.148.98:1936/ss/]]></link>
+<pageUrl><![CDATA[http://live.samaa.tv]]></pageUrl>
+<playpath><![CDATA[livestream2]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sardegna Uno]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.sardegna1.tv/flowplayer-3.2.5.swf]]></swfUrl>
+<link><![CDATA[rtmp://94.32.101.13/sardegna1]]></link>
+<pageUrl><![CDATA[http://www.sardegna1.tv]]></pageUrl>
+<playpath><![CDATA[live1.stream]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[SAT 1]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v3.334.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108475.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[sat1_1_800@44490]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sat 1 (Mirror)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static.castalba.tv/player.swf ]]></swfUrl>
+<link><![CDATA[rtmp://live.castalba.tv/calive]]></link>
+<pageUrl><![CDATA[http://castalba.tv/]]></pageUrl>
+<playpath><![CDATA[175071]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[SAT 1 HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z010101.stream]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Schweizer Sportfernsehen ]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.internettv.ch/swf/itvplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://ipmedia.mpl.miisolutions.net/ipmedia-live01/_def]]></link>
+<pageUrl><![CDATA[http://www.schweizersportfernsehen.ch/ssf/start.asp?]]></pageUrl>
+<playpath><![CDATA[mp4:ssflive]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[SCTV (Indonesia)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://mivotv-static.com/swf/MivoTV.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.mivo.tv/mivotvjkt/]]></link>
+<pageUrl><![CDATA[http://mivo.tv/]]></pageUrl>
+<playpath><![CDATA[sctv2]]></playpath>
+<language><![CDATA[Indonesian]]></language>
+<advanced><![CDATA[-T #8888#9999]]></advanced>
+</stream>
+<stream><title><![CDATA[Sex Station Tv - UK Babes 1]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.tvtuga.org/asx/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://93.89.84.216/iptv_cellcast_24/]]></link>
+<pageUrl><![CDATA[http://www.tvtuga.org/sexstation-tv/]]></pageUrl>
+<playpath><![CDATA[livestream1]]></playpath>
+<language><![CDATA[Adult]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sex Station Tv - UK Babes 2]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://api.firestormmedia.tv/aff_stream/flash/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://178.33.224.86/iptv_cellcast_24//livestream_two]]></link>
+<pageUrl><![CDATA[http://www.livebabeshows.co.uk/babestation/sexstation/]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[Adult]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[SexySat TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://ovego.3dn.ru/file/uppod.swf]]></swfUrl>
+<link><![CDATA[rtmp://81.89.48.215/xyz999wkz/]]></link>
+<pageUrl><![CDATA[http://ovego.3dn.ru/publ/live_tv/ehrotika_18/sexysat_tv_live/13-1-0-182]]></pageUrl>
+<playpath><![CDATA[myStream.stream_360p]]></playpath>
+<language><![CDATA[Adult]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[SF 1 (Switzerland)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108341.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[sf1_1_800@43046]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[SF 2 (Switzerland)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108341.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[sf2_1_800@43048]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[Showcase (UK)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://109.169.29.6/jw/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmp://109.169.29.6/ShowcaseTV/livestream/]]></link>
+<pageUrl><![CDATA[http://www.information.tv/WatchLive/FlashPlayer/]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Showcase 2 (UK)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://109.169.29.6/jw/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmp://109.169.29.6/ShowcTV/livestream/]]></link>
+<pageUrl><![CDATA[http://www.information.tv/WatchLive/FlashPlayer/]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Showtime Extreme (US)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://skytvstream.com/skytvstream.swf]]></swfUrl>
+<link><![CDATA[rtmp://213.163.64.77/live]]></link>
+<pageUrl><![CDATA[http://www.skytvstream.com/embed.php]]></pageUrl>
+<playpath><![CDATA[00004@hyqw]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Simpsons 24/7]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.canaistv.net/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://204.45.66.178/ctv]]></link>
+<pageUrl><![CDATA[http://www.canaistv.net/tvamigos/glee.html]]></pageUrl>
+<playpath><![CDATA[simpsons]]></playpath>
+<language><![CDATA[Portuguese]]></language>
+<advanced><![CDATA[-a ctv]]></advanced>
+</stream>
+<stream><title><![CDATA[SIRIPLOI TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.turbotv.in/player1.swf]]></swfUrl>
+<link><![CDATA[rtmp://65.49.77.154/base2]]></link>
+<pageUrl><![CDATA[http://www.turbotv.in/etc_live.html]]></pageUrl>
+<playpath><![CDATA[kalai3.stream]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[SIXX]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108478.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[sixx_1_800@45516 ]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[SIXX HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z010104.stream]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sky Comedy]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://streami.tv/fp/flowplayer.commercial-3.2.8.swf]]></swfUrl>
+<link><![CDATA[rtmpe://89.248.174.106/streami/]]></link>
+<pageUrl><![CDATA[http://streami.tv/embed/e2.php]]></pageUrl>
+<playpath><![CDATA[streamkiwiwiwidssds-jzkb]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[-T VyPxYFDj4BvxtVv7]]></advanced>
+</stream>
+<stream><title><![CDATA[Sky Drama n Romance]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z050229.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sky Family HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z020403.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sky Modern Greats]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z050228.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sky News]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z050227.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sky Scifi n Horror]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z050230.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sky Sport (Italy)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://i1261.photobucket.com/albums/ii597/scitytv/abclive/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://159.253.131.91/live]]></link>
+<pageUrl><![CDATA[http://www.hdcast.tv]]></pageUrl>
+<playpath><![CDATA[hqfooyteich4]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sky Sports 1 HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z050226.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sky Sports 2]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.streamiton.tv/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://108.59.3.246:1935/live/_definst_]]></link>
+<pageUrl><![CDATA[http://www.yycast.com/embed.php?fileid=6sKxajYXPJrTged]]></pageUrl>
+<playpath><![CDATA[6sKxajYXPJrTged]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sky Sports News]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static2.sawlive.tv/player.swf]]></swfUrl>
+<link><![CDATA[rtmpe://68.68.28.69:1935/app]]></link>
+<pageUrl><![CDATA[http://sawlive.tv]]></pageUrl>
+<playpath><![CDATA[12207]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sky TG24]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://admin.brightcove.com/viewer/us20110820.1743/federatedVideoUI/BrightcovePlayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp49989.live.edgefcs.net:443/live/]]></link>
+<pageUrl><![CDATA[http://tg24.sky.it/tg24/diretta.html]]></pageUrl>
+<playpath><![CDATA[streamRM1@2564]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sky Thriller HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z020404.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sony Entertainment (Brazil)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdnmastertv.net/flash/header4_fv8.swf]]></swfUrl>
+<link><![CDATA[rtmp://streamer.istreamlive.net/133_182/]]></link>
+<pageUrl><![CDATA[http://tv-msn.com/sony.html]]></pageUrl>
+<playpath><![CDATA[sony]]></playpath>
+<language><![CDATA[Por/Eng]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Space]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://tv-msn.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://streamer.istreamlive.net:1935/133_182]]></link>
+<pageUrl><![CDATA[http://tv-msn.com/]]></pageUrl>
+<playpath><![CDATA[space]]></playpath>
+<language><![CDATA[Portuguese]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Speed]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://streami.tv/fp/flowplayer.commercial-3.2.8.swf]]></swfUrl>
+<link><![CDATA[rtmpe://68.68.29.64/streami/]]></link>
+<pageUrl><![CDATA[http://streami.tv/embed/e2.php]]></pageUrl>
+<playpath><![CDATA[streamkiwiwiwigh-gnbn]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[-T VyPxYFDj4BvxtVv7]]></advanced>
+</stream>
+<stream><title><![CDATA[SPORT 1 ]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z030103.stream]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sport 1 (Ukraine)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[]]></swfUrl>
+<link><![CDATA[rtmp://212.40.43.10/sport1/sport1i1.stream]]></link>
+<pageUrl><![CDATA[http://www.poverkhnost.tv/sport/]]></pageUrl>
+<playpath><![CDATA[sport1i1.stream]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sport 2 (Ukraine)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[]]></swfUrl>
+<link><![CDATA[rtmp://212.40.43.10/sport1/sport2i1.stream]]></link>
+<pageUrl><![CDATA[http://www.poverkhnost.tv/sport/]]></pageUrl>
+<playpath><![CDATA[sport2i1.stream]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sport Time TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.hdtvizle.com/proplayer/players/player.swf ]]></swfUrl>
+<link><![CDATA[rtmp://flash.speednet.at:80/sporttime_playlist/Sporttime/]]></link>
+<pageUrl><![CDATA[http://www.hdtvizle.com ]]></pageUrl>
+<playpath><![CDATA[sporttimetv-1100]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[live=true]]></advanced>
+</stream>
+<stream><title><![CDATA[Sport-TV1 HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://mips.tv/content/scripts/eplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://174.37.252.206/live/sfdsgdfhdf?id=108959.flv]]></link>
+<pageUrl><![CDATA[http://mips.tv/embedplayer/sfdsgdfhdf/1/670/450 ]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[SS Music]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.turbotv.in/player1.swf]]></swfUrl>
+<link><![CDATA[rtmp://65.49.77.154/base2]]></link>
+<pageUrl><![CDATA[http://www.turbotv.in/etc_live.html]]></pageUrl>
+<playpath><![CDATA[tamil6.stream]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Star Plus]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.110cast.com/player/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmpe://31.204.153.82/app/starplushigh1_desistreams ]]></link>
+<pageUrl><![CDATA[http://www.110cast.com/embed.php?u=starplushigh1_desistreams ]]></pageUrl>
+<playpath><![CDATA[starplushigh1_desistreams ]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Star Sport]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://freetvall.com/player/jw_player_5/player3.SWF]]></swfUrl>
+<link><![CDATA[rtmp://119.235.255.205/star/]]></link>
+<pageUrl><![CDATA[http://freetvall.com/video/GWSWU56X547X/Star-Sports]]></pageUrl>
+<playpath><![CDATA[live]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Stars (FilmOn)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[https://www.filmon.com/tv/modules/FilmOnTV/flash/jwplayer/jwplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://live127.origin.la3.filmon.com:1935/live/_definst_/494.high.stream ]]></link>
+<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+<playpath><![CDATA[494.high.stream ]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Starz HBO (S.H)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.static.ilive.to/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://176.31.231.57/edge]]></link>
+<pageUrl><![CDATA[http://www.ilive.to/view/23143/STARZ_-_HBO_-_ENCORE]]></pageUrl>
+<playpath><![CDATA[k6sl277kqlswruk]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Studio 1]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://94.23.226.227/studiouno/flowplayer.rtmp-3.1.3.swf]]></swfUrl>
+<link><![CDATA[rtmp://94.23.226.227/studiouno/]]></link>
+<pageUrl><![CDATA[http://94.23.226.227/studiouno/studiouno.html]]></pageUrl>
+<playpath><![CDATA[studiouno.sdp]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Studio N]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[studion2]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Sun Sports Florida]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.static.ilive.to/jwplayer/player_embed.swf]]></swfUrl>
+<link><![CDATA[rtmp://176.31.237.198/edge/6b0t91vgle6sjmz.flv]]></link>
+<pageUrl><![CDATA[http://www.ilive.to/]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Super RTL]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108475.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[superrtl_1_800@44489]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[Super TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://fms.player.streamshow.it/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://fms.shared.streamshow.it/supertvweb]]></link>
+<pageUrl><![CDATA[http://bresciasat.com/pg029.html]]></pageUrl>
+<playpath><![CDATA[supertv]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[SVBC]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[svbc1]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Syfy Universal]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.xuuby.com/player/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmp://93.174.93.58/histreamEd2/televisasyfy]]></link>
+<pageUrl><![CDATA[http://www.xuuby.com]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Syfy USA]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.static.ilive.to/jwplayer/player_new.swf]]></swfUrl>
+<link><![CDATA[rtmp://178.33.225.28/edge/ayon9p0j2lhrwnn]]></link>
+<pageUrl><![CDATA[http://www.ilive.to/view/30868 ]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[T News]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[channel49001]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Tele 2000]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://m.tele2000.myannalisa.com/mediaplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://streaming.myannalisa.com/tele2000]]></link>
+<pageUrl><![CDATA[http://www.tele2000.it/programmi-tv/network]]></pageUrl>
+<playpath><![CDATA[myStream.sdp]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Tele Diogene]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://fms.player.streamshow.it/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://fms.shared.streamshow.it/tdiogene]]></link>
+<pageUrl><![CDATA[http://www.telediogene.it/]]></pageUrl>
+<playpath><![CDATA[telediogene]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Tele Radio Sciacca]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.teleradiosciacca.it/portale_web/FlowPlayerNet/flowplayer.rtmp-3.1.3.swf]]></swfUrl>
+<link><![CDATA[rtmp://91.121.207.48/teleradiosciacca-tv1]]></link>
+<pageUrl><![CDATA[http://www.teleradiosciacca.it/]]></pageUrl>
+<playpath><![CDATA[teleradiosciacca-tv1]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Teleacras]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.teleacras.com/site_01/site_04/modules/mod_jwmedia/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://91.121.207.48/teleacras-tv1]]></link>
+<pageUrl><![CDATA[http://www.teleacras.com/site_01/site_04/]]></pageUrl>
+<playpath><![CDATA[teleacras-tv1]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[TeleBoario]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://ondemand.superstreaming.it/example/flowplayer.rtmp-3.1.3.swf]]></swfUrl>
+<link><![CDATA[rtmp://91.121.222.160/teleboariotb/]]></link>
+<pageUrl><![CDATA[http://ondemand.superstreaming.it/example/teleboario/live.html]]></pageUrl>
+<playpath><![CDATA[teleboario.sdp]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Teleducato Parma]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://fms.player.streamshow.it/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://fms.shared.streamshow.it/tdprweb]]></link>
+<pageUrl><![CDATA[http://www.teleducatoparma.it/tdvideo.php]]></pageUrl>
+<playpath><![CDATA[tdparma]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Teleducato Piacenza]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://fms.player.streamshow.it/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://fms.shared.streamshow.it/tdpcweb]]></link>
+<pageUrl><![CDATA[http://www.teleducatopiacenza.it/tdvideo.php]]></pageUrl>
+<playpath><![CDATA[tdpiacenza]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Telemilano Piu Blu]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://ondemand.superstreaming.it/example/flowplayer.rtmp-3.1.3.swf]]></swfUrl>
+<link><![CDATA[rtmp://ondemand.superstreaming.it/piublu]]></link>
+<pageUrl><![CDATA[http://ondemand.superstreaming.it/example/piublu/live.html]]></pageUrl>
+<playpath><![CDATA[piublu.sdp]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Telemistretta]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://custlogin.audiovideoweb.com/cl/assets/mo/mo.swf]]></swfUrl>
+<link><![CDATA[rtmp://fls.5.c3.audiovideoweb.com:443/live]]></link>
+<pageUrl><![CDATA[http://www.telemistretta.it]]></pageUrl>
+<playpath><![CDATA[5c3flslive2643]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Telenuova]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.dinamis.org/telenuova/StrobeMediaPlayback.swf]]></swfUrl>
+<link><![CDATA[rtmp://85.25.136.7:1935/live]]></link>
+<pageUrl><![CDATA[http://www.dinamis.org/telenuova/]]></pageUrl>
+<playpath><![CDATA[telenuova]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Telerama]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.mixermedia.it/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://flash1.bsnewline.com/telerama]]></link>
+<pageUrl><![CDATA[http://www.mixermedia.it/jwplayer/telerama.html]]></pageUrl>
+<playpath><![CDATA[telerama]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Teleregione]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.teleregione.tv/mediaplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://streaming.teleinfo.it/live]]></link>
+<pageUrl><![CDATA[http://www.teleregione.tv/]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Teleromagna]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.teleromagna.it/livetvsrc/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://live.teleromagna.it/TeleromagnaLive]]></link>
+<pageUrl><![CDATA[http://www.teleromagna.it/livetvsrc/streammosaico3.html]]></pageUrl>
+<playpath><![CDATA[teleromagna.stream]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Teleromagna LifeStyle]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.teleromagna.it/livetvsrc/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://live.teleromagna.it/TeleromagnaLive]]></link>
+<pageUrl><![CDATA[http://www.teleromagna.it/livetvsrc/streammosaico3.html]]></pageUrl>
+<playpath><![CDATA[teleromagnaLifeStyle.stream]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Teleromagna Mia]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.teleromagna.it/livetvsrc/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://live.teleromagna.it/TeleromagnaLive]]></link>
+<pageUrl><![CDATA[http://www.teleromagna.it/livetvsrc/streammosaico3.html]]></pageUrl>
+<playpath><![CDATA[teleromagnaMia.stream]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Teleromagna News]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.teleromagna.it/livetvsrc/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://live.teleromagna.it/TeleromagnaLive]]></link>
+<pageUrl><![CDATA[http://www.teleromagna.it/livetvsrc/streammosaico3.html]]></pageUrl>
+<playpath><![CDATA[teleromagnaNews.stream]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Telespazio TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://fms.player.streamshow.it/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://fms.shared.streamshow.it/rts]]></link>
+<pageUrl><![CDATA[http://www.radiotelespazio.tv/rts1111_009.htm]]></pageUrl>
+<playpath><![CDATA[rtscz]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Teleterni]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.teleterni.it/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://livevideo.topserviceitalia.com/teleterni]]></link>
+<pageUrl><![CDATA[http://www.teleterni.it/]]></pageUrl>
+<playpath><![CDATA[teleterni]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[TF1 HD (France)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wat.tv/images/v40/PlayerWat.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp150242.live.edgefcs.net:80/live/]]></link>
+<pageUrl><![CDATA[http://www.tf1.fr/live]]></pageUrl>
+<playpath><![CDATA[eTF1_Flash_live_hd@51544]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[The Shopping Channel]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.theshoppingchannel.com/Scripts/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp78554.live.edgefcs.net/live/]]></link>
+<pageUrl><![CDATA[http://www.theshoppingchannel.com/pages/watchuslive?target=ctl01_GlobalNavigationHeader_0_zonCartItemNumber_tkapanAjaxPanel]]></pageUrl>
+<playpath><![CDATA[theShoppingChannel@12095]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[THT]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z040004.stream]]></playpath>
+<language><![CDATA[Russian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Times sq NY (USA)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a]]></swfUrl>
+<link><![CDATA[rtmp://video2.earthcam.com/fecnetwork/hdtimes.flv]]></link>
+<pageUrl><![CDATA[http://www.earthcam.com/usa/newyork/timessquare/]]></pageUrl>
+<playpath><![CDATA[hdtimes.flv]]></playpath>
+<language><![CDATA[WebCam]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[TMC]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://www.futuboxhd.com/]]></pageUrl>
+<playpath><![CDATA[z010109.stream]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[live=1]]></advanced>
+</stream>
+<stream><title><![CDATA[TMC HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z010108.stream]]></playpath>
+<language><![CDATA[Link down]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[TNT(USA)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.static.ilive.to/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://46.105.115.183/edge/]]></link>
+<pageUrl><![CDATA[http://www.ilive.to]]></pageUrl>
+<playpath><![CDATA[veku2kuqkfwr8rd]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Tom & Jerry 24/7]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.canaistv.net/swf/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://204.45.66.178/ctv]]></link>
+<pageUrl><![CDATA[http://www.canaistv.net/tvamigos/tomejerry.html]]></pageUrl>
+<playpath><![CDATA[tom]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[-a ctv]]></advanced>
+</stream>
+<stream><title><![CDATA[Trans 7]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://victorynet.tv/media/player/player.swf ]]></swfUrl>
+<link><![CDATA[rtmp://119.110.68.190/live]]></link>
+<pageUrl><![CDATA[http://victorynet.tv/]]></pageUrl>
+<playpath><![CDATA[mvtranstujuhx01]]></playpath>
+<language><![CDATA[Indonesian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Trans TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://victorynet.tv/media/player/player.swf ]]></swfUrl>
+<link><![CDATA[rtmp://119.110.68.190/live]]></link>
+<pageUrl><![CDATA[http://victorynet.tv/]]></pageUrl>
+<playpath><![CDATA[mvtranstvx01 ]]></playpath>
+<language><![CDATA[Indonesian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[TRC]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://fms.player.streamshow.it/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://fms.shared.streamshow.it/trc]]></link>
+<pageUrl><![CDATA[http://www.santeramo.it]]></pageUrl>
+<playpath><![CDATA[trcweb]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[TrgMedia]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.trgmedia.it/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://212.104.10.35/live/_definst_/]]></link>
+<pageUrl><![CDATA[http://www.trgmedia.it/direttaF.aspx]]></pageUrl>
+<playpath><![CDATA[trg]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[TRM]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://flash.streamingmedia.it:8000/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://flash.streamingmedia.it/TRM]]></link>
+<pageUrl><![CDATA[http://www.trmtv.it/home/]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[TSN]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[ http://www.streamiton.tv/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://212.7.206.76:1935/live/_definst_]]></link>
+<pageUrl><![CDATA[http://www.yycast.com/embed.php]]></pageUrl>
+<playpath><![CDATA[kiwisportzzz8]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[TSR 1 (Switzerland)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp115491.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[tsr1_1_800@45522 ]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[TSR 2 (Switzerland)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp115491.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[tsr2_1_800@45523]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[TV 5]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.rtmp1.yupptv.tv/nwk]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com/account/FlashPlayerFrame.aspx]]></pageUrl>
+<playpath><![CDATA[tv5]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[-a nwk]]></advanced>
+</stream>
+<stream><title><![CDATA[TV Catalunya]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://jonas.do.am/player.swf ]]></swfUrl>
+<link><![CDATA[rtmp://k3d.directe-f4v.emissio.tvcatalunya.cat/live]]></link>
+<pageUrl><![CDATA[http://jonas.do.am]]></pageUrl>
+<playpath><![CDATA[K3D_FLV@13066]]></playpath>
+<language><![CDATA[Spanish]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[TV Eger (Hungary)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.tveger.hu/live/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://87.229.24.114:8010/live]]></link>
+<pageUrl><![CDATA[http://www.tveger.hu/online.php]]></pageUrl>
+<playpath><![CDATA[live]]></playpath>
+<language><![CDATA[Hungarian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[TV Onda]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.flashwebtown.com/mediaplayer/mediaplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://shared.flashwebtown.com/pietro/]]></link>
+<pageUrl><![CDATA[http://www.milaninterradio.tv/pctelevision/indexOnda.html]]></pageUrl>
+<playpath><![CDATA[yourstreamname]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[TV5Monde (France)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v5.033.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108478.live.edgefcs.net/live]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath><![CDATA[tv5monde_1_800@45511]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[TVA (Canada)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://admin.brightcove.com/viewer/us1.25.04.01.2011-05-24182704/federatedVideoUI/BrightcovePlayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp39414.live.edgefcs.net:443/live/]]></link>
+<pageUrl><![CDATA[http://admin.brightcove.com/]]></pageUrl>
+<playpath><![CDATA[tvahd@9750]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[TyC Sports (ARG)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://static.tutele.me/player/tutele-2006-28102011-alpha.swf]]></swfUrl>
+<link><![CDATA[rtmp://176.31.231.114/live/live_15_84bb761369e7.flv]]></link>
+<pageUrl><![CDATA[http://tutele.me/embed.php?channel=15 ]]></pageUrl>
+<playpath><![CDATA[]]></playpath>
+<language><![CDATA[Sports]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Umbria TV]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.mediastreaming.it/umbriatv/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://fl1.mediastreaming.it/umbriatv]]></link>
+<pageUrl><![CDATA[http://www.mediastreaming.it/umbriatv/]]></pageUrl>
+<playpath><![CDATA[livestream]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[UTV Movies]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.110cast.com/player/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmpe://31.204.153.82/app/utvmovies1_desistreams ]]></link>
+<pageUrl><![CDATA[http://www.110cast.com/embed.php?u=utvmovies1_desistreams]]></pageUrl>
+<playpath><![CDATA[utvmovies1_desistreams ]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Vanitha]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[vanitha9001]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Video Brescia]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://fms.player.streamshow.it/jwplayer/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://fms.shared.streamshow.it/vbresciaweb]]></link>
+<pageUrl><![CDATA[http://bresciasat.com/pg030.html]]></pageUrl>
+<playpath><![CDATA[videobrescia]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Videolina]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.videolina.it/dist/flowplayer.rtmp-3.2.0.swf]]></swfUrl>
+<link><![CDATA[rtmp://91.121.222.160/videostreamlive/]]></link>
+<pageUrl><![CDATA[http://www.videolina.it/Live.html]]></pageUrl>
+<playpath><![CDATA[videolinalive.sdp]]></playpath>
+<language><![CDATA[Italian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Vissa]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.rtmp1.yupptv.tv/nwk]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com/account/FlashPlayerFrame.aspx]]></pageUrl>
+<playpath><![CDATA[vissa]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[-a nwk]]></advanced>
+</stream>
+<stream><title><![CDATA[VOX]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wilmaa.com/player/main_v3.176.swf]]></swfUrl>
+<link><![CDATA[rtmp://cp108341.live.edgefcs.net/live/]]></link>
+<pageUrl><![CDATA[http://www.wilmaa.com/]]></pageUrl>
+<playpath><![CDATA[vox_1_800@43052]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb]]></advanced>
+</stream>
+<stream><title><![CDATA[VOX HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z030102.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[VTV Szeged]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://nrw.vtvszeged.hu/media/mediaplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://193.142.209.45/live]]></link>
+<pageUrl><![CDATA[http://vtvszeged.hu/]]></pageUrl>
+<playpath><![CDATA[vtvszeged]]></playpath>
+<language><![CDATA[Hungarian]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[W9]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z010108.stream]]></playpath>
+<language><![CDATA[French]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[War in Color (FilmOn)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[https://www.filmon.com/tv/modules/FilmOnTV/flash/jwplayer/jwplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://live127.origin.la3.filmon.com:1935/live/_definst_/491.high.stream]]></link>
+<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+<playpath><![CDATA[491.high.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[We]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf]]></swfUrl>
+<link><![CDATA[rtmp://cdn.m.yupptv.tv/liveorigin]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com]]></pageUrl>
+<playpath><![CDATA[we1]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Wesal TV (Saudi Arabia)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wesal.tv/universalPlayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://109.123.123.82:1935/wesal/wesal1]]></link>
+<pageUrl><![CDATA[http://www.wesal.tv]]></pageUrl>
+<playpath><![CDATA[wesal1]]></playpath>
+<language><![CDATA[Arabic]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[WIN TV (Trinidad)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.wintvworld.com/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://87.117.201.212/wintvdotcom/wintv]]></link>
+<pageUrl><![CDATA[http://www.wintvworld.com/featured.htm]]></pageUrl>
+<playpath><![CDATA[wintv]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[-a wintvdotcom/wintv]]></advanced>
+</stream>
+<stream><title><![CDATA[World Fashion Channel (Russia)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://sakitvs.com/player/play.swf]]></swfUrl>
+<link><![CDATA[rtmp://freebandbusiness.fms.visionip.tv/live]]></link>
+<pageUrl><![CDATA[http://www.sakitvs.com/nickt.htm]]></pageUrl>
+<playpath><![CDATA[freeband_business-world_fashion-live-25f-4x3_2]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[World Of Martial Arts (FilmOn)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[https://www.filmon.com/tv/modules/FilmOnTV/flash/jwplayer/jwplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://199.59.204.92/live]]></link>
+<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+<playpath><![CDATA[406.high.stream]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[XXX #1 (FilthOn)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[https://www.filmon.com/tv/modules/FilmOnTV/flash/jwplayer/jwplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://live187.la3.edge.filmon.com/live247/]]></link>
+<pageUrl><![CDATA[www.filthon.com]]></pageUrl>
+<playpath><![CDATA[247.high.stream]]></playpath>
+<language><![CDATA[18+]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[XXX #2 (FilthOn)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[https://www.filmon.com/tv/modules/FilmOnTV/flash/jwplayer/jwplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://live187.la3.edge.filmon.com/live247/]]></link>
+<pageUrl><![CDATA[www.filthon.com]]></pageUrl>
+<playpath><![CDATA[246.high.stream]]></playpath>
+<language><![CDATA[18+]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[XXX #3 (FilthOn)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[https://www.filmon.com/tv/modules/FilmOnTV/flash/jwplayer/jwplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://live187.la3.edge.filmon.com/live247/]]></link>
+<pageUrl><![CDATA[www.filthon.com]]></pageUrl>
+<playpath><![CDATA[245.high.stream]]></playpath>
+<language><![CDATA[18+]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[XXX #4 (FilthOn)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[https://www.filmon.com/tv/modules/FilmOnTV/flash/jwplayer/jwplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://live187.la3.edge.filmon.com/live247/]]></link>
+<pageUrl><![CDATA[www.filthon.com]]></pageUrl>
+<playpath><![CDATA[244.high.stream]]></playpath>
+<language><![CDATA[18+]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[XXX #5 (FilthOn)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[https://www.filmon.com/tv/modules/FilmOnTV/flash/jwplayer/jwplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://live187.la3.edge.filmon.com/live247/]]></link>
+<pageUrl><![CDATA[www.filthon.com]]></pageUrl>
+<playpath><![CDATA[247.high.stream]]></playpath>
+<language><![CDATA[18+]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ZDF HD]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://futuboxhd.com/player/player.swf]]></swfUrl>
+<link><![CDATA[rtmp://tv.futubox.com/live/]]></link>
+<pageUrl><![CDATA[http://futuboxhd.com]]></pageUrl>
+<playpath><![CDATA[z030401.stream]]></playpath>
+<language><![CDATA[German]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Zee]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://zonytvcom.info/you/player.swf]]></swfUrl>
+<link><![CDATA[rtmpe://homepc3.redirectme.net:1934:1934/rtplive/zt.stream]]></link>
+<pageUrl><![CDATA[http://zonytvcom.info]]></pageUrl>
+<playpath><![CDATA[zt.stream]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Zee Aflam]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://zonytvcom.info/you/player.swf]]></swfUrl>
+<link><![CDATA[rtmpe://homepc3.redirectme.net:1934:1934/rtplive/afl.stream]]></link>
+<pageUrl><![CDATA[http://zonytvcom.info]]></pageUrl>
+<playpath><![CDATA[afl.stream]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Zee Cinema]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.110cast.com/player/player-licensed.swf]]></swfUrl>
+<link><![CDATA[rtmpe://31.204.153.82/app/zeecinema1_desistreams]]></link>
+<pageUrl><![CDATA[http://www.110cast.com/embed.php]]></pageUrl>
+<playpath><![CDATA[zeecinema1_desistreams]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Zee Etc]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.turbotv.in/player1.swf]]></swfUrl>
+<link><![CDATA[rtmp://65.49.77.154/base2]]></link>
+<pageUrl><![CDATA[http://www.turbotv.in/etc_live.html]]></pageUrl>
+<playpath><![CDATA[dd7.stream]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Zee Jagran]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.turbotv.in/player1.swf]]></swfUrl>
+<link><![CDATA[rtmp://65.49.77.154/base2]]></link>
+<pageUrl><![CDATA[http://www.turbotv.in/etc_live.html]]></pageUrl>
+<playpath><![CDATA[dd10.stream]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[Zee News]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.ninjantv.in/player/player2.swf]]></swfUrl>
+<link><![CDATA[rtmp://mf.siemens.c.nmdn.net/dittotv]]></link>
+<pageUrl><![CDATA[http://www.ninjantv.in]]></pageUrl>
+<playpath><![CDATA[zee_news_500kbs.sdp]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+<stream><title><![CDATA[ZNS TV (Bahamas)]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://www.flashwebtown.com/mediaplayer/mediaplayer.swf]]></swfUrl>
+<link><![CDATA[rtmp://shared.flashwebtown.com/synergybahamas/]]></link>
+<pageUrl><![CDATA[http://www.flashwebtown.com]]></pageUrl>
+<playpath><![CDATA[znstv13]]></playpath>
+<language><![CDATA[English]]></language>
+<advanced><![CDATA[-a synergybahamas]]></advanced>
+</stream>
+<stream><title><![CDATA[Zoom]]></title>
+<info resolution="" bitrate=""/>
+<swfUrl><![CDATA[http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF]]></swfUrl>
+<link><![CDATA[rtmp://208.43.9.88/nwk/]]></link>
+<pageUrl><![CDATA[http://www.yupptv.com/streams/zoomtv.aspx]]></pageUrl>
+<playpath><![CDATA[zoomtv]]></playpath>
+<language><![CDATA[Hindi]]></language>
+<advanced><![CDATA[]]></advanced>
+</stream>
+</streams>

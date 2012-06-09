@@ -1,0 +1,56 @@
+PHP-RSS-SQLITE experiments on mipsel-based media players 
+http://code.google.com/p/oscar-db/ 
+---- presents ----
+
+                 {rtmp-db}
+				 
+This addon is based on rtmpGUI PC application:
+http://forum.wiziwig.eu/threads/58518-rtmpGUI-Official-thread
+
+It allows to watch directly on POHD many rtmp streams from this list
+maintained by rtmpGUI users:
+http://apps.ohlulz.com/rtmpgui/list.xml
+
+Rtmp-db is a "package" for [PlayOn!X] project made by Mikka
+See http://playon.unixstorm.org for more details
+
+It uses SQLite Database, PHP engine and it
+needs media-translate (RSS Ex) [PlayOn!X] package pre-installed
+See http://code.google.com/p/media-translate/ for the original sources
+
+Live update of the Channlel list (to local Database) from website 
+is provided by a menu entry.
+The menu also offers search and sorting
+Favorite's functionality is implemented by "0" button.
+
+Installation:
+
+Copy the files to HDD  /home/scripts/rtmp-db;
+Create the following menu entry:
+
+<item>
+<title>RtmpGUI</title>
+<link>http://127.0.0.1:82/rtmp-db/index.php</link>
+<media>/home/scripts/rtmp-db/images/rtmp.png</media>
+</item>
+
+Using a local XML list instead of Online Update:
+
+Copy your XML file structured as per rtmpGUI format to
+/home/scripts/rtmp-db/last.xml
+The DB update will be taken from it instead of online list.
+If you want to syncronize DB to the online list again,
+just remove or rename the local file /home/scripts/rtmp-db/last.xml
+
+Submitting new channels to rtmpGUI online database:
+
+1. Install VLC 1.x and rtmpGUI PC application from here:
+http://forum.wiziwig.eu/threads/58518-rtmpGUI-Official-thread
+
+2. Sign for free API key:
+http://apps.ohlulz.com/rtmpgui/users/index.php
+
+3. Follow the instructions discussed in the official thread
+
+rtmp-db
+June, 2012
