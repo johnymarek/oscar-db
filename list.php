@@ -137,7 +137,7 @@
   	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_07.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
   	<idleImage idleImageYPC="45" idleImageHeightPC="10">../etc/translate/rss/image/POPUP_LOADING_08.png<idleImageWidthPC><script>10 * screenYp / screenXp;</script></idleImageWidthPC><idleImageXPC><script>45 + 10 * (1 - screenYp / screenXp) / 2;</script></idleImageXPC></idleImage>
 		<itemDisplay>
-			<text align="left" lines="1" offsetXPC=0 offsetYPC=0 widthPC=100 heightPC=100>
+			<text fontFile="/home/scripts/translate/fonts/fo1.ttf" align="left" lines="1" offsetXPC=0 offsetYPC=0 widthPC=100 heightPC=100>
 				<script>
 					idx = getQueryItemIndex();
 					focus = getFocusItemIndex();
@@ -155,7 +155,7 @@
   				<script>
   					idx = getQueryItemIndex();
   					focus = getFocusItemIndex();
-  			    if(focus==idx) "16"; else "14";
+  			    if(focus==idx) "18"; else "16";
   				</script>
 				</fontSize>
 			  <backgroundColor>
@@ -460,7 +460,7 @@
     print("error_info=",error_info);
   </unknownDispatcher>
 <script>
-    channelImage = "/home/scripts/oscar-db/images/ch3.jpg";
+    channelImage = "/home/scripts/oscar-db/images/ch3.png";
 </script>
 <channel>
 <?
