@@ -86,7 +86,20 @@ function url_exists($url) {
 //sleep(2);
 
 if(url_exists($xmlPath) || file_exists($xmlCopy)){
-
+	
+	// read local or online XML 
+	$msgo = "Online";
+	if (file_exists($xmlCopy)){
+		$xmlPath = $xmlCopy;
+		$msgo = "Local";
+	}
+	libxml_use_internal_errors(true);
+	$xmlText = simplexml_load_file($xmlPath, null, LIBXML_NOCDATA);
+	if($xmlText === FALSE) { //errors when loading
+	 echo "Bad XML";
+	 
+	} else { // good
+	 
 	$db = new PDO('sqlite:'.$newDB);
 	$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 	$dropTable = "DROP TABLE IF EXISTS ".$table;
@@ -104,13 +117,6 @@ if(url_exists($xmlPath) || file_exists($xmlCopy)){
 	$sqlCreateStr .= ",PRIMARY KEY ( id))";
 	$createRes = $db->exec($sqlCreateStr);
 	
-	// read local or online XML 
-	$msgo = "Online";
-	if (file_exists($xmlCopy)){
-		$xmlPath = $xmlCopy;
-		$msgo = "Local";
-	}
-	$xmlText = simplexml_load_file($xmlPath, null, LIBXML_NOCDATA);
 	foreach ($xmlText->stream as $stream) {
 		$n++;
     	$f1 = htmlspecialchars(trim($stream->title));
@@ -134,11 +140,10 @@ if(url_exists($xmlPath) || file_exists($xmlCopy)){
 			die('Execute err: '.$msgo);
  			}
     }
-
     echo "Done: ".$inserted." ".$msgo." Rtmp Channels";
+	}
 } else 
     echo $msgo." source is not available!";
-
 ?>
   		</text>
 <backgroundDisplay>
